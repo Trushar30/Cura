@@ -78,7 +78,7 @@ Create [frontend/vercel.json](file:///Users/trushargpatel/Downloads/Internship/H
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR-RENDER-BACKEND-URL.onrender.com/api/:path*"
+      "destination": "https://cura-backend-hgq7.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
@@ -87,7 +87,7 @@ Create [frontend/vercel.json](file:///Users/trushargpatel/Downloads/Internship/H
   ]
 }
 ```
-*(Replace `https://YOUR-RENDER-BACKEND-URL.onrender.com` with your actual Render URL copied from Step 1).*
+*(We have pre-configured this for you in the `frontend/vercel.json` file inside the repository).*
 
 ### 2. Deploy on Vercel
 1. Go to [Vercel](https://vercel.com/) and log in with GitHub.
