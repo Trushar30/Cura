@@ -22,7 +22,7 @@ nltk>=3.8.0
 textblob>=0.17.1
 
 # Deep Learning
-tensorflow>=2.13.0
+tensorflow-cpu>=2.13.0
 
 # Graph Analysis
 networkx>=3.1

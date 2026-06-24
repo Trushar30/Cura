@@ -48,7 +48,7 @@ bandit_alpha = {d: 1.0 for d in bandit_arms}
 bandit_beta = {d: 1.0 for d in bandit_arms}
 
 def load_models():
-    global svd_model, cosine_sim, cb_vectorizer, ncf_model, ncf_cond_encoder, ncf_drug_encoder, knowledge_graph
+    global svd_model, cosine_sim, cb_vectorizer, knowledge_graph
     try:
         if os.path.exists('models/cf_best_model.joblib'):
             svd_model = joblib.load('models/cf_best_model.joblib')
@@ -62,16 +62,29 @@ def load_models():
             with open('models/knowledge_graph.pkl', 'rb') as f:
                 knowledge_graph = pickle.load(f)
             print("Loaded Knowledge Graph.")
-        
-        # Load NCF
-        if os.path.exists('models/ncf_model.keras'):
-            import tensorflow as tf
-            ncf_model = tf.keras.models.load_model('models/ncf_model.keras')
-            ncf_cond_encoder = joblib.load('models/ncf_cond_encoder.joblib')
-            ncf_drug_encoder = joblib.load('models/ncf_drug_encoder.joblib')
-            print("Loaded NCF Deep Learning model.")
     except Exception as e:
         print("Warning during model load:", e)
+
+def get_ncf_model():
+    global ncf_model, ncf_cond_encoder, ncf_drug_encoder
+    if ncf_model is None:
+        try:
+            if os.path.exists('models/ncf_model.keras'):
+                print("Loading NCF model lazily...")
+                import tensorflow as tf
+                # Set CPU thread limits to avoid memory pressure on Render
+                os.environ['TF_NUM_INTEROP_THREADS'] = '1'
+                os.environ['TF_NUM_INTRAOP_THREADS'] = '1'
+                tf.config.threading.set_intra_op_parallelism_threads(1)
+                tf.config.threading.set_inter_op_parallelism_threads(1)
+                
+                ncf_model = tf.keras.models.load_model('models/ncf_model.keras')
+                ncf_cond_encoder = joblib.load('models/ncf_cond_encoder.joblib')
+                ncf_drug_encoder = joblib.load('models/ncf_drug_encoder.joblib')
+                print("Loaded NCF Deep Learning model lazily.")
+        except Exception as e:
+            print("Warning during lazy NCF model load:", e)
+    return ncf_model, ncf_cond_encoder, ncf_drug_encoder
 
 # Trigger loading on module load
 load_models()
@@ -280,20 +293,21 @@ def get_recommendations(
             
         # E. Deep Learning NCF Rating
         ncf_rating = 5.0
-        if ncf_model is not None and ncf_cond_encoder is not None and ncf_drug_encoder is not None:
+        active_ncf_model, active_ncf_cond_encoder, active_ncf_drug_encoder = get_ncf_model()
+        if active_ncf_model is not None and active_ncf_cond_encoder is not None and active_ncf_drug_encoder is not None:
             try:
                 # Get index
-                cond_lbl = mapped_condition if mapped_condition in ncf_cond_encoder.classes_ else ncf_cond_encoder.classes_[0]
-                drug_lbl = drug if drug in ncf_drug_encoder.classes_ else ncf_drug_encoder.classes_[0]
+                cond_lbl = mapped_condition if mapped_condition in active_ncf_cond_encoder.classes_ else active_ncf_cond_encoder.classes_[0]
+                drug_lbl = drug if drug in active_ncf_drug_encoder.classes_ else active_ncf_drug_encoder.classes_[0]
                 
-                c_idx = ncf_cond_encoder.transform([cond_lbl])[0]
-                d_idx = ncf_drug_encoder.transform([drug_lbl])[0]
+                c_idx = active_ncf_cond_encoder.transform([cond_lbl])[0]
+                d_idx = active_ncf_drug_encoder.transform([drug_lbl])[0]
                 
                 # Predict (sigmoid output 0-1)
-                pred_ncf = ncf_model.predict([np.array([c_idx]), np.array([d_idx])], verbose=0)[0][0]
+                pred_ncf = active_ncf_model.predict([np.array([c_idx]), np.array([d_idx])], verbose=0)[0][0]
                 ncf_rating = pred_ncf * 10.0
-            except:
-                pass
+            except Exception as e:
+                print("Error predicting with NCF model:", e)
                 
         # F. Recency-weighted rating
         # Simulating recency weighted decay rating: older drugs are slightly discounted
