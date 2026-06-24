@@ -35,3 +35,11 @@ tqdm>=4.65.0
 # Jupyter Support
 jupyter>=1.0.0
 ipykernel>=6.25.0
+
+# FastAPI Web Server Dependencies
+fastapi>=0.100.0
+uvicorn>=0.20.0
+sqlalchemy>=2.0.0
+passlib[bcrypt]>=1.7.4
+pyjwt>=2.8.0
+cryptography>=41.0.0
