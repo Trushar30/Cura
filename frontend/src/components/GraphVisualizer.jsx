@@ -82,7 +82,7 @@ export default function GraphVisualizer({ token, selectedDisease }) {
         </div>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 200px', gap: '1.5rem', alignItems: 'center' }}>
+      <div className="graph-layout">
         {/* SVG Drawing Canvas */}
         <div style={{ background: 'var(--bg-input)', borderRadius: '6px', border: '1px solid var(--border-light)', display: 'flex', justifyContent: 'center', alignItems: 'center', padding: '0.5rem', position: 'relative', overflow: 'hidden' }}>
           {loading ? (
