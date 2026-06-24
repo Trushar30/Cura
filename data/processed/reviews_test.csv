@@ -1,0 +1,1001 @@
+uniqueID,drugName,condition,review,rating,date,usefulCount,review_length,word_count
+1502,Ortho Tri-Cyclen,Birth Control,Average medication. Does what it is supposed to do. I was prescribed Ortho Tri-Cyclen for birth control.,4,"December 15, 2018",68,104,17
+2587,Yaz,Birth Control,Made my condition worse. Would not recommend. I was prescribed Yaz for birth control.,2,"January 22, 2015",92,85,14
+2654,Ritalin,ADHD,This medication has been a lifesaver. I was prescribed Ritalin for adhd.,8,"January 05, 2023",66,72,12
+1056,Contrave,Obesity,Some improvement but still dealing with symptoms. I was prescribed Contrave for obesity.,4,"May 18, 2015",200,88,13
+706,Fluticasone,Asthma,I noticed improvement within the first week. I was prescribed Fluticasone for asthma.,7,"May 25, 2015",141,85,13
+107,Levofloxacin,Pneumonia,Works well with minimal side effects. I was prescribed Levofloxacin for pneumonia.,10,"August 20, 2017",172,82,12
+590,Synthroid,Hypothyroidism,Caused severe headaches and nausea. I was prescribed Synthroid for hypothyroidism.,3,"April 20, 2022",152,82,11
+2469,Melatonin,Insomnia,I noticed improvement within the first week. I was prescribed Melatonin for insomnia.,7,"July 17, 2021",117,85,13
+2414,Tramadol,Pain,The drowsiness was unbearable. Could not function normally. I was prescribed Tramadol for pain.,3,"February 03, 2017",61,95,14
+1601,Albuterol,Asthma,Some improvement but still dealing with symptoms. I was prescribed Albuterol for asthma.,5,"October 06, 2019",185,88,13
+2465,Rosuvastatin,High Cholesterol,I noticed improvement within the first week. I was prescribed Rosuvastatin for high cholesterol.,8,"December 27, 2015",48,96,14
+229,Doxycycline,Acne,It works okay but nothing spectacular. I was prescribed Doxycycline for acne.,4,"November 01, 2021",97,77,12
+916,Levothyroxine,Hypothyroidism,It works okay but nothing spectacular. I was prescribed Levothyroxine for hypothyroidism.,6,"May 22, 2022",56,89,12
+795,Melatonin,Insomnia,Initially helped but stopped working after a month. I was prescribed Melatonin for insomnia.,3,"April 30, 2021",15,92,14
+3022,Amlodipine,High Blood Pressure,It works okay but nothing spectacular. I was prescribed Amlodipine for high blood pressure.,4,"November 04, 2022",182,91,14
+3544,Albuterol,Asthma,Not worth the side effects. Very disappointed. I was prescribed Albuterol for asthma.,3,"January 17, 2018",52,85,13
+1074,Ritalin,ADHD,My doctor took me off this due to adverse reactions. I was prescribed Ritalin for adhd.,2,"July 09, 2018",90,87,16
+3352,Pantoprazole,GERD,Results are hit or miss. Some days are better than others. I was prescribed Pantoprazole for gerd.,5,"April 26, 2021",120,98,17
+1745,Diazepam,Anxiety,Gained significant weight while on this medication. I was prescribed Diazepam for anxiety.,3,"November 03, 2017",90,90,13
+1085,Synthroid,Hypothyroidism,No major complaints but no major improvements either. I was prescribed Synthroid for hypothyroidism.,6,"February 04, 2015",3,100,14
+927,Levofloxacin,Pneumonia,Been on this for a while. Seems to help somewhat. I was prescribed Levofloxacin for pneumonia.,4,"April 25, 2019",107,94,16
+3050,Albuterol,Asthma,Works well with minimal side effects. I was prescribed Albuterol for asthma.,8,"December 18, 2016",129,76,12
+1118,Januvia,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Januvia for diabetes type 2.,5,"May 04, 2020",119,97,17
+643,Pantoprazole,GERD,No major complaints but no major improvements either. I was prescribed Pantoprazole for gerd.,5,"August 05, 2021",176,93,14
+4768,Insulin Glargine,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Insulin Glargine for diabetes type 2.,5,"June 05, 2018",192,106,18
+502,Insulin Glargine,Diabetes Type 2,I noticed improvement within the first week. I was prescribed Insulin Glargine for diabetes type 2.,10,"October 03, 2020",106,99,16
+4067,Rizatriptan,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Rizatriptan for migraine.,6,"July 09, 2016",97,101,17
+334,Liothyronine,Hypothyroidism,Been on this for a while. Seems to help somewhat. I was prescribed Liothyronine for hypothyroidism.,4,"November 11, 2020",156,99,16
+4685,Yaz,Birth Control,Terrible side effects made me stop taking it. I was prescribed Yaz for birth control.,3,"May 18, 2018",59,85,15
+487,Alprazolam,Anxiety,Some improvement but still dealing with symptoms. I was prescribed Alprazolam for anxiety.,4,"May 09, 2020",82,90,13
+1963,Escitalopram,Depression,Highly recommend to anyone dealing with this condition. I was prescribed Escitalopram for depression.,7,"October 01, 2020",139,101,14
+394,Rizatriptan,Migraine,Been taking for months with consistent positive results. I was prescribed Rizatriptan for migraine.,10,"May 12, 2021",8,99,14
+4843,Budesonide,Asthma,Works well with minimal side effects. I was prescribed Budesonide for asthma.,7,"August 22, 2021",199,77,12
+4867,Topiramate,Migraine,It works okay but nothing spectacular. I was prescribed Topiramate for migraine.,6,"November 11, 2016",179,80,12
+1756,Ibuprofen,Pain,Great results overall. I was prescribed Ibuprofen for pain.,9,"April 03, 2016",4,59,9
+2516,Valproate,Bipolar Disorder,Average medication. Does what it is supposed to do. I was prescribed Valproate for bipolar disorder.,6,"April 25, 2017",190,100,16
+3586,Montelukast,Allergies,Too many side effects. Had to switch medications. I was prescribed Montelukast for allergies.,2,"August 05, 2016",4,93,14
+4316,Fexofenadine,Allergies,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Fexofenadine for allergies.,8,"June 28, 2021",179,114,17
+4967,Amoxicillin,UTI,Initially helped but stopped working after a month. I was prescribed Amoxicillin for uti.,3,"October 18, 2022",193,89,14
+2100,Doxycycline,Pneumonia,Highly recommend to anyone dealing with this condition. I was prescribed Doxycycline for pneumonia.,8,"August 20, 2019",169,99,14
+3600,Phentermine,Obesity,No major complaints but no major improvements either. I was prescribed Phentermine for obesity.,5,"February 22, 2021",186,95,14
+4122,Humira,Arthritis,Some improvement but still dealing with symptoms. I was prescribed Humira for arthritis.,5,"September 08, 2021",73,88,13
+30,Montelukast,Allergies,Some improvement but still dealing with symptoms. I was prescribed Montelukast for allergies.,5,"February 02, 2020",0,93,13
+66,Humira,Arthritis,My doctor recommended this and it really helped. I was prescribed Humira for arthritis.,9,"June 10, 2019",33,87,14
+839,Meloxicam,Arthritis,My doctor recommended this and it really helped. I was prescribed Meloxicam for arthritis.,8,"May 11, 2022",182,90,14
+3907,Lamotrigine,Bipolar Disorder,I noticed improvement within the first week. I was prescribed Lamotrigine for bipolar disorder.,9,"September 15, 2018",144,95,14
+3774,Melatonin,Insomnia,No major complaints but no major improvements either. I was prescribed Melatonin for insomnia.,4,"October 21, 2022",186,94,14
+4636,Synthroid,Hypothyroidism,My doctor took me off this due to adverse reactions. I was prescribed Synthroid for hypothyroidism.,1,"January 29, 2015",182,99,16
+3162,Ciprofloxacin,UTI,Works well with minimal side effects. I was prescribed Ciprofloxacin for uti.,7,"October 10, 2021",58,77,12
+2660,Ibuprofen,Pain,Very effective treatment. I was prescribed Ibuprofen for pain.,7,"October 22, 2021",92,62,9
+4616,Strattera,ADHD,Average medication. Does what it is supposed to do. I was prescribed Strattera for adhd.,5,"January 27, 2017",15,88,15
+4629,Topiramate,Migraine,Great results overall. I was prescribed Topiramate for migraine.,8,"January 28, 2022",175,64,9
+2452,Insulin Glargine,Diabetes Type 2,My doctor took me off this due to adverse reactions. I was prescribed Insulin Glargine for diabetes type 2.,3,"July 11, 2015",70,107,19
+2847,Tretinoin,Acne,Results are hit or miss. Some days are better than others. I was prescribed Tretinoin for acne.,4,"November 30, 2021",116,95,17
+1145,Glipizide,Diabetes Type 2,Results are hit or miss. Some days are better than others. I was prescribed Glipizide for diabetes type 2.,5,"January 20, 2016",133,106,19
+3079,Isotretinoin,Acne,Average medication. Does what it is supposed to do. I was prescribed Isotretinoin for acne.,6,"December 20, 2022",118,91,15
+1104,Levofloxacin,Pneumonia,Results are hit or miss. Some days are better than others. I was prescribed Levofloxacin for pneumonia.,5,"January 31, 2022",37,103,17
+169,Nitrofurantoin,UTI,It works okay but nothing spectacular. I was prescribed Nitrofurantoin for uti.,5,"June 09, 2021",72,79,12
+1671,Albuterol,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Albuterol for asthma.,5,"November 12, 2017",77,97,17
+2571,Rizatriptan,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Rizatriptan for migraine.,6,"January 08, 2023",35,101,17
+2378,Benzoyl Peroxide,Acne,The drowsiness was unbearable. Could not function normally. I was prescribed Benzoyl Peroxide for acne.,2,"October 09, 2022",146,103,15
+4396,Diazepam,Anxiety,Did not work for me at all. Waste of money. I was prescribed Diazepam for anxiety.,2,"January 01, 2022",184,82,16
+4258,Losartan,High Blood Pressure,I noticed improvement within the first week. I was prescribed Losartan for high blood pressure.,9,"May 08, 2018",135,95,15
+3863,Humira,Arthritis,It works okay but nothing spectacular. I was prescribed Humira for arthritis.,5,"July 24, 2019",8,77,12
+24,Valproate,Bipolar Disorder,The drowsiness was unbearable. Could not function normally. I was prescribed Valproate for bipolar disorder.,2,"June 17, 2017",35,108,15
+2634,Vyvanse,ADHD,It works okay but nothing spectacular. I was prescribed Vyvanse for adhd.,6,"October 29, 2021",193,73,12
+3341,Prednisone,Arthritis,Changed my life for the better. Finally feel normal again. I was prescribed Prednisone for arthritis.,7,"March 31, 2018",36,101,16
+2216,Armour Thyroid,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Armour Thyroid for hypothyroidism.,6,"December 19, 2018",191,101,14
+3683,Adderall,ADHD,It works okay but nothing spectacular. I was prescribed Adderall for adhd.,6,"September 29, 2016",31,74,12
+4725,Diazepam,Anxiety,Been on this for a while. Seems to help somewhat. I was prescribed Diazepam for anxiety.,5,"June 21, 2015",60,88,16
+1908,Sertraline,Depression,Terrible side effects made me stop taking it. I was prescribed Sertraline for depression.,3,"March 26, 2019",80,89,14
+85,Atorvastatin,High Cholesterol,Made my condition worse. Would not recommend. I was prescribed Atorvastatin for high cholesterol.,3,"September 22, 2018",200,97,14
+228,Saxenda,Obesity,Gained significant weight while on this medication. I was prescribed Saxenda for obesity.,3,"August 24, 2022",46,89,13
+297,Budesonide,Asthma,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Budesonide for asthma.,8,"October 28, 2018",40,109,17
+1002,Phentermine,Obesity,Been taking for months with consistent positive results. I was prescribed Phentermine for obesity.,8,"January 30, 2019",128,98,14
+2139,Loratadine,Allergies,Too many side effects. Had to switch medications. I was prescribed Loratadine for allergies.,2,"June 12, 2017",191,92,14
+712,Losartan,High Blood Pressure,Some improvement but still dealing with symptoms. I was prescribed Losartan for high blood pressure.,5,"April 09, 2018",144,100,15
+2802,Simvastatin,High Cholesterol,I noticed improvement within the first week. I was prescribed Simvastatin for high cholesterol.,10,"April 14, 2015",93,95,14
+2528,Metoprolol,High Blood Pressure,Very effective treatment. I was prescribed Metoprolol for high blood pressure.,7,"May 28, 2022",0,78,11
+3753,Contrave,Obesity,Been taking for months with consistent positive results. I was prescribed Contrave for obesity.,9,"March 25, 2015",16,95,14
+3322,Omeprazole,GERD,Initially helped but stopped working after a month. I was prescribed Omeprazole for gerd.,3,"February 26, 2018",193,89,14
+3182,Topiramate,Migraine,Been taking for months with consistent positive results. I was prescribed Topiramate for migraine.,7,"October 29, 2017",127,98,14
+4184,Levofloxacin,Pneumonia,Been on this for a while. Seems to help somewhat. I was prescribed Levofloxacin for pneumonia.,4,"May 17, 2021",29,94,16
+1616,Loratadine,Allergies,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Loratadine for allergies.,10,"October 31, 2019",34,112,17
+3025,Humira,Arthritis,Initially helped but stopped working after a month. I was prescribed Humira for arthritis.,1,"November 11, 2017",154,90,14
+1414,Meloxicam,Arthritis,I noticed improvement within the first week. I was prescribed Meloxicam for arthritis.,10,"October 31, 2015",70,86,13
+764,Fexofenadine,Allergies,Some improvement but still dealing with symptoms. I was prescribed Fexofenadine for allergies.,5,"October 07, 2016",187,94,13
+656,Sumatriptan,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Sumatriptan for migraine.,6,"June 18, 2019",55,92,16
+4798,Vyvanse,ADHD,Did not work for me at all. Waste of money. I was prescribed Vyvanse for adhd.,1,"January 04, 2015",19,78,16
+3850,Phentermine,Obesity,Too many side effects. Had to switch medications. I was prescribed Phentermine for obesity.,2,"March 13, 2023",27,91,14
+4154,Levothyroxine,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Levothyroxine for hypothyroidism.,4,"September 13, 2020",10,100,13
+469,Vyvanse,ADHD,Some improvement but still dealing with symptoms. I was prescribed Vyvanse for adhd.,4,"March 23, 2016",157,84,13
+158,Escitalopram,Depression,Great results overall. I was prescribed Escitalopram for depression.,7,"July 15, 2019",177,68,9
+1296,Metoprolol,High Blood Pressure,No major complaints but no major improvements either. I was prescribed Metoprolol for high blood pressure.,5,"April 28, 2016",188,106,16
+498,Sumatriptan,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Sumatriptan for migraine.,5,"April 04, 2016",15,92,16
+4741,Tretinoin,Acne,Very effective treatment. I was prescribed Tretinoin for acne.,7,"November 19, 2021",174,62,9
+2941,Liothyronine,Hypothyroidism,Great results overall. I was prescribed Liothyronine for hypothyroidism.,8,"September 01, 2022",154,72,9
+3457,Quetiapine,Bipolar Disorder,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Quetiapine for bipolar disorder.,8,"April 22, 2015",97,119,18
+374,Montelukast,Asthma,My doctor recommended this and it really helped. I was prescribed Montelukast for asthma.,8,"March 08, 2015",91,89,14
+80,Gabapentin,Pain,Terrible side effects made me stop taking it. I was prescribed Gabapentin for pain.,1,"February 21, 2019",149,83,14
+1554,Venlafaxine,Depression,The drowsiness was unbearable. Could not function normally. I was prescribed Venlafaxine for depression.,3,"July 08, 2021",123,104,14
+1670,Sumatriptan,Migraine,Highly recommend to anyone dealing with this condition. I was prescribed Sumatriptan for migraine.,7,"August 26, 2017",113,98,14
+2132,Montelukast,Asthma,No major complaints but no major improvements either. I was prescribed Montelukast for asthma.,6,"October 14, 2016",5,94,14
+4440,Ranitidine,GERD,Changed my life for the better. Finally feel normal again. I was prescribed Ranitidine for gerd.,7,"October 26, 2018",37,96,16
+466,Acetaminophen,Pain,It works okay but nothing spectacular. I was prescribed Acetaminophen for pain.,5,"March 24, 2018",182,79,12
+249,Ambien,Insomnia,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Ambien for insomnia.,10,"February 18, 2019",172,107,17
+932,Fexofenadine,Allergies,I noticed improvement within the first week. I was prescribed Fexofenadine for allergies.,10,"December 19, 2022",166,89,13
+1336,Bupropion,Depression,It works okay but nothing spectacular. I was prescribed Bupropion for depression.,5,"February 10, 2020",79,81,12
+4525,Azithromycin,Pneumonia,Changed my life for the better. Finally feel normal again. I was prescribed Azithromycin for pneumonia.,8,"July 28, 2019",37,103,16
+1339,Meloxicam,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Meloxicam for arthritis.,5,"June 19, 2020",7,100,17
+1407,Ranitidine,GERD,Initially helped but stopped working after a month. I was prescribed Ranitidine for gerd.,2,"March 01, 2017",8,89,14
+1091,Armour Thyroid,Hypothyroidism,Been on this for a while. Seems to help somewhat. I was prescribed Armour Thyroid for hypothyroidism.,5,"June 21, 2016",147,101,17
+4210,Ritalin,ADHD,Made my condition worse. Would not recommend. I was prescribed Ritalin for adhd.,3,"June 19, 2020",72,80,13
+743,Amoxicillin,Pneumonia,No major complaints but no major improvements either. I was prescribed Amoxicillin for pneumonia.,4,"April 23, 2018",127,97,14
+2324,Tretinoin,Acne,Been taking for months with consistent positive results. I was prescribed Tretinoin for acne.,10,"October 02, 2019",174,93,14
+3602,Synthroid,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Synthroid for hypothyroidism.,4,"August 05, 2016",195,96,13
+2124,Strattera,ADHD,Average medication. Does what it is supposed to do. I was prescribed Strattera for adhd.,5,"August 15, 2016",75,88,15
+2095,Meloxicam,Arthritis,Great results overall. I was prescribed Meloxicam for arthritis.,8,"January 19, 2019",170,64,9
+241,Ibuprofen,Pain,No major complaints but no major improvements either. I was prescribed Ibuprofen for pain.,4,"April 01, 2022",10,90,14
+2352,Isotretinoin,Acne,I noticed improvement within the first week. I was prescribed Isotretinoin for acne.,7,"October 07, 2015",71,84,13
+1371,Strattera,ADHD,Results are hit or miss. Some days are better than others. I was prescribed Strattera for adhd.,5,"December 26, 2018",57,95,17
+1058,Januvia,Diabetes Type 2,Great results overall. I was prescribed Januvia for diabetes type 2.,8,"May 06, 2022",0,68,11
+4817,Levofloxacin,Pneumonia,Been taking for months with consistent positive results. I was prescribed Levofloxacin for pneumonia.,9,"January 17, 2022",162,101,14
+200,Contrave,Obesity,Gained significant weight while on this medication. I was prescribed Contrave for obesity.,3,"August 03, 2020",160,90,13
+2281,Alprazolam,Anxiety,Terrible side effects made me stop taking it. I was prescribed Alprazolam for anxiety.,1,"October 07, 2021",25,86,14
+4750,Amoxicillin,Pneumonia,It works okay but nothing spectacular. I was prescribed Amoxicillin for pneumonia.,6,"May 03, 2022",94,82,12
+2221,Ezetimibe,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Ezetimibe for high cholesterol.,5,"July 22, 2020",174,98,17
+4772,Budesonide,Asthma,Initially helped but stopped working after a month. I was prescribed Budesonide for asthma.,3,"June 24, 2019",191,91,14
+2820,Fluoxetine,Depression,Not worth the side effects. Very disappointed. I was prescribed Fluoxetine for depression.,1,"August 27, 2016",186,90,13
+3151,Humira,Arthritis,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Humira for arthritis.,8,"June 17, 2015",62,108,17
+4257,Insulin Glargine,Diabetes Type 2,My doctor took me off this due to adverse reactions. I was prescribed Insulin Glargine for diabetes type 2.,3,"February 01, 2015",12,107,19
+3108,Ezetimibe,High Cholesterol,Changed my life for the better. Finally feel normal again. I was prescribed Ezetimibe for high cholesterol.,7,"March 03, 2017",63,107,17
+1974,Humira,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Humira for arthritis.,6,"October 29, 2022",106,97,17
+1376,Fluoxetine,Depression,No major complaints but no major improvements either. I was prescribed Fluoxetine for depression.,5,"March 15, 2023",134,97,14
+3969,Omeprazole,GERD,Highly recommend to anyone dealing with this condition. I was prescribed Omeprazole for gerd.,10,"December 26, 2016",139,93,14
+4063,Strattera,ADHD,The drowsiness was unbearable. Could not function normally. I was prescribed Strattera for adhd.,3,"April 10, 2015",136,96,14
+4446,Famotidine,GERD,Been on this for a while. Seems to help somewhat. I was prescribed Famotidine for gerd.,4,"December 29, 2017",177,87,16
+3558,Glipizide,Diabetes Type 2,It works okay but nothing spectacular. I was prescribed Glipizide for diabetes type 2.,6,"December 06, 2022",40,86,14
+965,Mirena,Birth Control,It works okay but nothing spectacular. I was prescribed Mirena for birth control.,5,"April 22, 2017",137,81,13
+180,Tretinoin,Acne,Been taking for months with consistent positive results. I was prescribed Tretinoin for acne.,10,"January 20, 2020",176,93,14
+3699,Losartan,High Blood Pressure,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Losartan for high blood pressure.,8,"December 16, 2015",34,120,19
+3822,Montelukast,Asthma,No major complaints but no major improvements either. I was prescribed Montelukast for asthma.,6,"October 30, 2018",22,94,14
+4879,Escitalopram,Depression,Results are hit or miss. Some days are better than others. I was prescribed Escitalopram for depression.,4,"February 04, 2020",78,104,17
+3900,Lisinopril,High Blood Pressure,Been on this for a while. Seems to help somewhat. I was prescribed Lisinopril for high blood pressure.,6,"February 17, 2019",144,102,18
+4488,Januvia,Diabetes Type 2,It works okay but nothing spectacular. I was prescribed Januvia for diabetes type 2.,4,"February 10, 2018",71,84,14
+3239,Acetaminophen,Pain,Been on this for a while. Seems to help somewhat. I was prescribed Acetaminophen for pain.,6,"September 18, 2015",57,90,16
+2975,Adderall,ADHD,This medication has been a lifesaver. I was prescribed Adderall for adhd.,8,"January 04, 2020",145,73,12
+3581,Venlafaxine,Depression,Very effective treatment. I was prescribed Venlafaxine for depression.,10,"May 07, 2018",29,70,9
+2888,Cetirizine,Allergies,Highly recommend to anyone dealing with this condition. I was prescribed Cetirizine for allergies.,9,"December 30, 2017",45,98,14
+2576,Sertraline,Depression,Terrible side effects made me stop taking it. I was prescribed Sertraline for depression.,3,"October 13, 2016",59,89,14
+1420,Synthroid,Hypothyroidism,Works well with minimal side effects. I was prescribed Synthroid for hypothyroidism.,7,"May 23, 2015",18,84,12
+3908,Hydroxyzine,Anxiety,Terrible side effects made me stop taking it. I was prescribed Hydroxyzine for anxiety.,2,"August 11, 2020",79,87,14
+4674,Alprazolam,Anxiety,My doctor took me off this due to adverse reactions. I was prescribed Alprazolam for anxiety.,3,"September 27, 2018",100,93,16
+4903,Trazodone,Insomnia,Terrible side effects made me stop taking it. I was prescribed Trazodone for insomnia.,3,"November 01, 2021",150,86,14
+1861,Strattera,ADHD,It works okay but nothing spectacular. I was prescribed Strattera for adhd.,5,"June 06, 2020",7,75,12
+9,Methotrexate,Arthritis,It works okay but nothing spectacular. I was prescribed Methotrexate for arthritis.,4,"April 06, 2019",24,83,12
+2895,Amoxicillin,Pneumonia,Highly recommend to anyone dealing with this condition. I was prescribed Amoxicillin for pneumonia.,7,"May 19, 2021",117,99,14
+2848,Valproate,Bipolar Disorder,Caused severe headaches and nausea. I was prescribed Valproate for bipolar disorder.,3,"April 23, 2020",62,84,12
+3665,Synthroid,Hypothyroidism,Highly recommend to anyone dealing with this condition. I was prescribed Synthroid for hypothyroidism.,8,"February 13, 2020",11,102,14
+145,Sumatriptan,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Sumatriptan for migraine.,6,"April 06, 2022",87,92,16
+2105,Diazepam,Anxiety,Initially helped but stopped working after a month. I was prescribed Diazepam for anxiety.,3,"October 22, 2021",49,90,14
+3144,Doxycycline,Acne,Average medication. Does what it is supposed to do. I was prescribed Doxycycline for acne.,4,"March 07, 2015",28,90,15
+842,Humira,Arthritis,This medication has been a lifesaver. I was prescribed Humira for arthritis.,7,"May 08, 2022",127,76,12
+1129,Ezetimibe,High Cholesterol,Some improvement but still dealing with symptoms. I was prescribed Ezetimibe for high cholesterol.,5,"October 30, 2016",183,98,14
+152,Montelukast,Asthma,It works okay but nothing spectacular. I was prescribed Montelukast for asthma.,6,"July 17, 2020",83,79,12
+3592,Fexofenadine,Allergies,Highly recommend to anyone dealing with this condition. I was prescribed Fexofenadine for allergies.,7,"March 09, 2021",122,100,14
+1053,Venlafaxine,Depression,This medication has been a lifesaver. I was prescribed Venlafaxine for depression.,7,"February 15, 2023",98,82,12
+1591,Orlistat,Obesity,My doctor took me off this due to adverse reactions. I was prescribed Orlistat for obesity.,3,"January 19, 2019",180,91,16
+3009,Losartan,High Blood Pressure,Been taking for months with consistent positive results. I was prescribed Losartan for high blood pressure.,8,"April 16, 2019",83,107,16
+2030,Methotrexate,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Methotrexate for arthritis.,4,"May 21, 2017",117,103,17
+3419,Naproxen,Pain,Did not work for me at all. Waste of money. I was prescribed Naproxen for pain.,2,"June 17, 2019",173,79,16
+1808,Gabapentin,Pain,Highly recommend to anyone dealing with this condition. I was prescribed Gabapentin for pain.,7,"March 08, 2018",54,93,14
+2697,Mirena,Birth Control,Highly recommend to anyone dealing with this condition. I was prescribed Mirena for birth control.,8,"February 13, 2018",147,98,15
+3040,Quetiapine,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Quetiapine for bipolar disorder.,5,"February 18, 2020",167,99,17
+473,Alprazolam,Anxiety,Terrible side effects made me stop taking it. I was prescribed Alprazolam for anxiety.,2,"March 04, 2021",40,86,14
+3290,Doxycycline,Pneumonia,It works okay but nothing spectacular. I was prescribed Doxycycline for pneumonia.,5,"December 22, 2021",151,82,12
+4075,Doxycycline,Acne,Been on this for a while. Seems to help somewhat. I was prescribed Doxycycline for acne.,4,"May 10, 2021",157,88,16
+3497,Albuterol,Asthma,Great results overall. I was prescribed Albuterol for asthma.,8,"July 14, 2022",185,61,9
+280,Ritalin,ADHD,Results are hit or miss. Some days are better than others. I was prescribed Ritalin for adhd.,5,"January 24, 2020",58,93,17
+1742,Loratadine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Loratadine for allergies.,5,"October 18, 2019",75,92,16
+4625,Amoxicillin,UTI,Some improvement but still dealing with symptoms. I was prescribed Amoxicillin for uti.,6,"November 24, 2015",154,87,13
+2887,Januvia,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Januvia for diabetes type 2.,4,"October 10, 2019",86,97,17
+1942,Rizatriptan,Migraine,No major complaints but no major improvements either. I was prescribed Rizatriptan for migraine.,5,"December 02, 2016",134,96,14
+101,Ezetimibe,High Cholesterol,Made my condition worse. Would not recommend. I was prescribed Ezetimibe for high cholesterol.,2,"November 26, 2021",145,94,14
+2805,Amlodipine,High Blood Pressure,Results are hit or miss. Some days are better than others. I was prescribed Amlodipine for high blood pressure.,5,"January 18, 2019",134,111,19
+3571,Fluticasone,Asthma,Some improvement but still dealing with symptoms. I was prescribed Fluticasone for asthma.,5,"July 18, 2015",120,90,13
+3685,Diazepam,Anxiety,Very effective treatment. I was prescribed Diazepam for anxiety.,7,"May 12, 2016",128,64,9
+3662,Ortho Tri-Cyclen,Birth Control,Average medication. Does what it is supposed to do. I was prescribed Ortho Tri-Cyclen for birth control.,4,"August 18, 2022",168,104,17
+531,Venlafaxine,Depression,Great results overall. I was prescribed Venlafaxine for depression.,7,"July 31, 2015",68,67,9
+1887,Pantoprazole,GERD,My doctor took me off this due to adverse reactions. I was prescribed Pantoprazole for gerd.,3,"January 26, 2019",9,92,16
+682,Glipizide,Diabetes Type 2,My doctor took me off this due to adverse reactions. I was prescribed Glipizide for diabetes type 2.,3,"April 30, 2019",28,100,18
+3795,Montelukast,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Montelukast for asthma.,6,"January 02, 2021",119,99,17
+3945,Amoxicillin,UTI,It works okay but nothing spectacular. I was prescribed Amoxicillin for uti.,4,"October 21, 2016",144,76,12
+4667,Topiramate,Migraine,Average medication. Does what it is supposed to do. I was prescribed Topiramate for migraine.,4,"January 25, 2022",181,93,15
+2019,Phentermine,Obesity,Been taking for months with consistent positive results. I was prescribed Phentermine for obesity.,7,"September 28, 2022",78,98,14
+1097,Lithium,Bipolar Disorder,Results are hit or miss. Some days are better than others. I was prescribed Lithium for bipolar disorder.,6,"February 10, 2016",176,105,18
+830,NuvaRing,Birth Control,No major complaints but no major improvements either. I was prescribed NuvaRing for birth control.,5,"August 05, 2019",131,98,15
+2806,Yaz,Birth Control,Gained significant weight while on this medication. I was prescribed Yaz for birth control.,1,"June 25, 2018",84,91,14
+3830,Synthroid,Hypothyroidism,This medication has been a lifesaver. I was prescribed Synthroid for hypothyroidism.,7,"January 01, 2022",199,84,12
+4382,Bupropion,Depression,Been on this for a while. Seems to help somewhat. I was prescribed Bupropion for depression.,6,"March 09, 2019",1,92,16
+3892,Atorvastatin,High Cholesterol,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Atorvastatin for high cholesterol.,7,"January 09, 2022",124,121,18
+765,Ezetimibe,High Cholesterol,Very effective treatment. I was prescribed Ezetimibe for high cholesterol.,8,"December 14, 2016",181,74,10
+2768,Ranitidine,GERD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Ranitidine for gerd.,7,"December 13, 2022",123,107,17
+4329,Budesonide,Asthma,Been taking for months with consistent positive results. I was prescribed Budesonide for asthma.,10,"April 04, 2019",29,96,14
+3296,Methotrexate,Arthritis,Made my condition worse. Would not recommend. I was prescribed Methotrexate for arthritis.,3,"December 31, 2021",2,90,13
+2195,Escitalopram,Depression,Been on this for a while. Seems to help somewhat. I was prescribed Escitalopram for depression.,6,"July 11, 2020",2,95,16
+2358,Levofloxacin,Pneumonia,Average medication. Does what it is supposed to do. I was prescribed Levofloxacin for pneumonia.,6,"December 08, 2015",174,96,15
+3426,Trimethoprim,UTI,This medication has been a lifesaver. I was prescribed Trimethoprim for uti.,8,"March 19, 2018",93,76,12
+3980,Hydroxyzine,Anxiety,Caused severe headaches and nausea. I was prescribed Hydroxyzine for anxiety.,3,"May 21, 2021",38,77,11
+912,Adderall,ADHD,It works okay but nothing spectacular. I was prescribed Adderall for adhd.,6,"October 10, 2021",158,74,12
+3146,Vyvanse,ADHD,Highly recommend to anyone dealing with this condition. I was prescribed Vyvanse for adhd.,7,"January 13, 2021",45,90,14
+1000,Strattera,ADHD,I noticed improvement within the first week. I was prescribed Strattera for adhd.,7,"February 07, 2019",100,81,13
+3654,Prednisone,Arthritis,Made my condition worse. Would not recommend. I was prescribed Prednisone for arthritis.,3,"September 01, 2018",190,88,13
+2484,Alprazolam,Anxiety,Results are hit or miss. Some days are better than others. I was prescribed Alprazolam for anxiety.,4,"March 14, 2016",190,99,17
+4077,Simvastatin,High Cholesterol,No major complaints but no major improvements either. I was prescribed Simvastatin for high cholesterol.,5,"July 24, 2021",19,104,15
+2371,Trimethoprim,UTI,It works okay but nothing spectacular. I was prescribed Trimethoprim for uti.,5,"May 16, 2017",5,77,12
+4839,Famotidine,GERD,My doctor recommended this and it really helped. I was prescribed Famotidine for gerd.,9,"March 10, 2016",141,86,14
+34,Lisinopril,High Blood Pressure,The drowsiness was unbearable. Could not function normally. I was prescribed Lisinopril for high blood pressure.,3,"June 13, 2018",61,112,16
+3790,Pantoprazole,GERD,My doctor recommended this and it really helped. I was prescribed Pantoprazole for gerd.,9,"January 02, 2023",133,88,14
+1021,Lamotrigine,Bipolar Disorder,I noticed improvement within the first week. I was prescribed Lamotrigine for bipolar disorder.,7,"January 22, 2022",131,95,14
+1648,Mirena,Birth Control,My doctor recommended this and it really helped. I was prescribed Mirena for birth control.,8,"March 21, 2018",165,91,15
+734,Diazepam,Anxiety,Did not work for me at all. Waste of money. I was prescribed Diazepam for anxiety.,1,"July 26, 2016",31,82,16
+4583,Famotidine,GERD,Results are hit or miss. Some days are better than others. I was prescribed Famotidine for gerd.,5,"December 23, 2015",129,96,17
+3275,Meloxicam,Arthritis,Too many side effects. Had to switch medications. I was prescribed Meloxicam for arthritis.,3,"September 08, 2016",54,91,14
+1621,Fexofenadine,Allergies,It works okay but nothing spectacular. I was prescribed Fexofenadine for allergies.,6,"April 26, 2015",151,83,12
+3136,Januvia,Diabetes Type 2,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Januvia for diabetes type 2.,7,"November 03, 2022",162,115,19
+2690,Lithium,Bipolar Disorder,I noticed improvement within the first week. I was prescribed Lithium for bipolar disorder.,7,"February 01, 2015",151,91,14
+2708,Fluoxetine,Depression,Average medication. Does what it is supposed to do. I was prescribed Fluoxetine for depression.,6,"March 16, 2023",171,95,15
+298,Rizatriptan,Migraine,No major complaints but no major improvements either. I was prescribed Rizatriptan for migraine.,6,"August 21, 2018",198,96,14
+2340,Prednisone,Arthritis,No major complaints but no major improvements either. I was prescribed Prednisone for arthritis.,4,"December 28, 2018",33,96,14
+654,Propranolol,Migraine,My doctor took me off this due to adverse reactions. I was prescribed Propranolol for migraine.,3,"September 02, 2018",148,95,16
+3775,Metoprolol,High Blood Pressure,Too many side effects. Had to switch medications. I was prescribed Metoprolol for high blood pressure.,1,"August 14, 2019",84,102,16
+1256,Doxycycline,Pneumonia,The drowsiness was unbearable. Could not function normally. I was prescribed Doxycycline for pneumonia.,2,"February 18, 2020",63,103,14
+4521,Buspirone,Anxiety,Average medication. Does what it is supposed to do. I was prescribed Buspirone for anxiety.,4,"August 24, 2016",65,91,15
+231,Famotidine,GERD,No major complaints but no major improvements either. I was prescribed Famotidine for gerd.,4,"November 06, 2017",117,91,14
+3277,Valproate,Bipolar Disorder,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Valproate for bipolar disorder.,8,"October 18, 2018",180,118,18
+3231,Gabapentin,Pain,It works okay but nothing spectacular. I was prescribed Gabapentin for pain.,4,"April 04, 2020",122,76,12
+692,Ortho Tri-Cyclen,Birth Control,Highly recommend to anyone dealing with this condition. I was prescribed Ortho Tri-Cyclen for birth control.,8,"August 31, 2018",100,108,16
+2755,Simvastatin,High Cholesterol,Results are hit or miss. Some days are better than others. I was prescribed Simvastatin for high cholesterol.,5,"March 10, 2018",179,109,18
+4864,Doxycycline,Pneumonia,The drowsiness was unbearable. Could not function normally. I was prescribed Doxycycline for pneumonia.,2,"November 30, 2016",24,103,14
+970,Budesonide,Asthma,The drowsiness was unbearable. Could not function normally. I was prescribed Budesonide for asthma.,2,"March 11, 2015",99,99,14
+634,Amoxicillin,UTI,No major complaints but no major improvements either. I was prescribed Amoxicillin for uti.,4,"July 07, 2020",106,91,14
+4093,Glipizide,Diabetes Type 2,Some improvement but still dealing with symptoms. I was prescribed Glipizide for diabetes type 2.,5,"June 04, 2015",11,97,15
+4078,Loratadine,Allergies,Not worth the side effects. Very disappointed. I was prescribed Loratadine for allergies.,1,"March 05, 2021",36,89,13
+1322,Contrave,Obesity,This medication has been a lifesaver. I was prescribed Contrave for obesity.,7,"June 23, 2021",194,76,12
+1832,Montelukast,Allergies,It works okay but nothing spectacular. I was prescribed Montelukast for allergies.,6,"August 08, 2016",36,82,12
+2179,Ranitidine,GERD,This medication has been a lifesaver. I was prescribed Ranitidine for gerd.,10,"February 06, 2016",96,75,12
+1418,Nitrofurantoin,UTI,Some improvement but still dealing with symptoms. I was prescribed Nitrofurantoin for uti.,6,"January 23, 2021",196,90,13
+1783,Trazodone,Insomnia,The drowsiness was unbearable. Could not function normally. I was prescribed Trazodone for insomnia.,2,"July 11, 2015",197,100,14
+4716,Amoxicillin,Pneumonia,Average medication. Does what it is supposed to do. I was prescribed Amoxicillin for pneumonia.,5,"July 24, 2015",98,95,15
+4702,Ezetimibe,High Cholesterol,The drowsiness was unbearable. Could not function normally. I was prescribed Ezetimibe for high cholesterol.,2,"February 13, 2015",112,108,15
+4119,Cetirizine,Allergies,Some improvement but still dealing with symptoms. I was prescribed Cetirizine for allergies.,4,"March 01, 2018",45,92,13
+1653,Isotretinoin,Acne,Some improvement but still dealing with symptoms. I was prescribed Isotretinoin for acne.,6,"April 30, 2015",66,89,13
+1484,Lamotrigine,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Lamotrigine for bipolar disorder.,5,"September 02, 2016",146,100,17
+2276,Trimethoprim,UTI,My doctor took me off this due to adverse reactions. I was prescribed Trimethoprim for uti.,3,"January 27, 2017",45,91,16
+878,Contrave,Obesity,Been on this for a while. Seems to help somewhat. I was prescribed Contrave for obesity.,6,"October 16, 2021",179,88,16
+3526,Ezetimibe,High Cholesterol,The drowsiness was unbearable. Could not function normally. I was prescribed Ezetimibe for high cholesterol.,3,"May 04, 2016",35,108,15
+2017,Synthroid,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Synthroid for hypothyroidism.,5,"June 06, 2017",182,96,13
+427,Sumatriptan,Migraine,The drowsiness was unbearable. Could not function normally. I was prescribed Sumatriptan for migraine.,3,"September 17, 2017",119,102,14
+627,Alprazolam,Anxiety,The drowsiness was unbearable. Could not function normally. I was prescribed Alprazolam for anxiety.,3,"October 11, 2022",36,100,14
+1590,Hydroxyzine,Anxiety,It works okay but nothing spectacular. I was prescribed Hydroxyzine for anxiety.,6,"March 23, 2020",28,80,12
+2224,Naproxen,Pain,Average medication. Does what it is supposed to do. I was prescribed Naproxen for pain.,5,"August 10, 2020",3,87,15
+2218,Alprazolam,Anxiety,Average medication. Does what it is supposed to do. I was prescribed Alprazolam for anxiety.,5,"June 14, 2015",34,92,15
+4484,Alprazolam,Anxiety,I noticed improvement within the first week. I was prescribed Alprazolam for anxiety.,7,"February 06, 2023",193,85,13
+1486,Phentermine,Obesity,Been taking for months with consistent positive results. I was prescribed Phentermine for obesity.,8,"December 15, 2020",100,98,14
+1740,Phentermine,Obesity,My doctor recommended this and it really helped. I was prescribed Phentermine for obesity.,10,"April 01, 2020",111,90,14
+2481,Propranolol,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Propranolol for migraine.,4,"December 16, 2021",131,101,17
+2585,Benzoyl Peroxide,Acne,Highly recommend to anyone dealing with this condition. I was prescribed Benzoyl Peroxide for acne.,8,"February 26, 2017",22,99,15
+2894,Simvastatin,High Cholesterol,Average medication. Does what it is supposed to do. I was prescribed Simvastatin for high cholesterol.,6,"February 20, 2020",176,102,16
+150,Trazodone,Insomnia,Some improvement but still dealing with symptoms. I was prescribed Trazodone for insomnia.,6,"December 21, 2015",71,90,13
+677,Yaz,Birth Control,Did not work for me at all. Waste of money. I was prescribed Yaz for birth control.,3,"July 27, 2016",192,83,17
+1262,Glipizide,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Glipizide for diabetes type 2.,6,"December 06, 2019",101,99,17
+4918,Meloxicam,Arthritis,Average medication. Does what it is supposed to do. I was prescribed Meloxicam for arthritis.,5,"September 08, 2018",25,93,15
+13,Sertraline,Depression,No major complaints but no major improvements either. I was prescribed Sertraline for depression.,6,"July 22, 2017",197,97,14
+1834,Ortho Tri-Cyclen,Birth Control,No major complaints but no major improvements either. I was prescribed Ortho Tri-Cyclen for birth control.,6,"June 25, 2020",0,106,16
+3249,Lithium,Bipolar Disorder,It works okay but nothing spectacular. I was prescribed Lithium for bipolar disorder.,6,"April 11, 2022",121,85,13
+1492,Lithium,Bipolar Disorder,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Lithium for bipolar disorder.,10,"March 14, 2020",197,116,18
+2728,Hydroxyzine,Anxiety,Been taking for months with consistent positive results. I was prescribed Hydroxyzine for anxiety.,9,"November 26, 2022",32,98,14
+3687,Levofloxacin,Pneumonia,Works well with minimal side effects. I was prescribed Levofloxacin for pneumonia.,10,"December 30, 2018",23,82,12
+1425,Amoxicillin,UTI,Caused severe headaches and nausea. I was prescribed Amoxicillin for uti.,3,"July 13, 2019",186,73,11
+4606,Fluoxetine,Depression,Results are hit or miss. Some days are better than others. I was prescribed Fluoxetine for depression.,5,"December 15, 2016",102,102,17
+4596,Acetaminophen,Pain,Been on this for a while. Seems to help somewhat. I was prescribed Acetaminophen for pain.,6,"July 08, 2022",189,90,16
+732,Januvia,Diabetes Type 2,Initially helped but stopped working after a month. I was prescribed Januvia for diabetes type 2.,3,"December 13, 2016",7,97,16
+1232,Adderall,ADHD,Terrible side effects made me stop taking it. I was prescribed Adderall for adhd.,2,"October 10, 2017",135,81,14
+1635,Ritalin,ADHD,Average medication. Does what it is supposed to do. I was prescribed Ritalin for adhd.,5,"December 22, 2017",12,86,15
+3937,Liothyronine,Hypothyroidism,I noticed improvement within the first week. I was prescribed Liothyronine for hypothyroidism.,9,"January 22, 2022",133,94,13
+1211,Amoxicillin,UTI,Gained significant weight while on this medication. I was prescribed Amoxicillin for uti.,2,"March 14, 2017",143,89,13
+3269,Mirena,Birth Control,Been on this for a while. Seems to help somewhat. I was prescribed Mirena for birth control.,6,"June 25, 2022",44,92,17
+1935,Montelukast,Allergies,Great results overall. I was prescribed Montelukast for allergies.,10,"January 29, 2022",149,66,9
+554,Rosuvastatin,High Cholesterol,It works okay but nothing spectacular. I was prescribed Rosuvastatin for high cholesterol.,6,"January 30, 2016",134,90,13
+492,Loratadine,Allergies,Been taking for months with consistent positive results. I was prescribed Loratadine for allergies.,9,"September 11, 2022",128,99,14
+2963,Amlodipine,High Blood Pressure,Been on this for a while. Seems to help somewhat. I was prescribed Amlodipine for high blood pressure.,4,"May 25, 2018",37,102,18
+2330,Budesonide,Asthma,I noticed improvement within the first week. I was prescribed Budesonide for asthma.,8,"August 12, 2015",95,84,13
+2196,Rosuvastatin,High Cholesterol,Results are hit or miss. Some days are better than others. I was prescribed Rosuvastatin for high cholesterol.,4,"August 01, 2020",131,110,18
+3065,Metoprolol,High Blood Pressure,Too many side effects. Had to switch medications. I was prescribed Metoprolol for high blood pressure.,2,"June 07, 2018",103,102,16
+658,Fexofenadine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Fexofenadine for allergies.,5,"June 25, 2021",33,94,16
+2375,NuvaRing,Birth Control,I noticed improvement within the first week. I was prescribed NuvaRing for birth control.,8,"August 09, 2015",23,89,14
+2226,Azithromycin,Pneumonia,Been taking for months with consistent positive results. I was prescribed Azithromycin for pneumonia.,9,"May 20, 2020",74,101,14
+4265,Synthroid,Hypothyroidism,Average medication. Does what it is supposed to do. I was prescribed Synthroid for hypothyroidism.,5,"June 23, 2017",49,98,15
+1171,Sertraline,Depression,I noticed improvement within the first week. I was prescribed Sertraline for depression.,7,"January 01, 2017",8,88,13
+133,Montelukast,Asthma,Caused severe headaches and nausea. I was prescribed Montelukast for asthma.,3,"October 30, 2017",20,76,11
+472,Diazepam,Anxiety,The drowsiness was unbearable. Could not function normally. I was prescribed Diazepam for anxiety.,1,"January 17, 2023",120,98,14
+3226,Benzoyl Peroxide,Acne,Did not work for me at all. Waste of money. I was prescribed Benzoyl Peroxide for acne.,3,"January 21, 2017",137,87,17
+1406,Phentermine,Obesity,No major complaints but no major improvements either. I was prescribed Phentermine for obesity.,4,"January 01, 2020",89,95,14
+2877,Gabapentin,Pain,Not worth the side effects. Very disappointed. I was prescribed Gabapentin for pain.,3,"April 22, 2019",175,84,13
+4505,Glipizide,Diabetes Type 2,Been on this for a while. Seems to help somewhat. I was prescribed Glipizide for diabetes type 2.,5,"December 14, 2020",55,97,18
+4693,Sumatriptan,Migraine,I noticed improvement within the first week. I was prescribed Sumatriptan for migraine.,8,"October 25, 2016",143,87,13
+2827,Lithium,Bipolar Disorder,I noticed improvement within the first week. I was prescribed Lithium for bipolar disorder.,9,"February 12, 2015",55,91,14
+288,Sumatriptan,Migraine,Changed my life for the better. Finally feel normal again. I was prescribed Sumatriptan for migraine.,7,"September 09, 2020",54,101,16
+1870,Montelukast,Asthma,No major complaints but no major improvements either. I was prescribed Montelukast for asthma.,4,"May 21, 2017",149,94,14
+3115,Doxycycline,Pneumonia,Some improvement but still dealing with symptoms. I was prescribed Doxycycline for pneumonia.,6,"October 16, 2015",193,93,13
+3626,Mirena,Birth Control,Caused severe headaches and nausea. I was prescribed Mirena for birth control.,3,"August 21, 2017",73,78,12
+2313,Strattera,ADHD,Some improvement but still dealing with symptoms. I was prescribed Strattera for adhd.,6,"May 13, 2017",57,86,13
+4924,Adderall,ADHD,My doctor recommended this and it really helped. I was prescribed Adderall for adhd.,9,"October 10, 2018",147,84,14
+1619,Phentermine,Obesity,Results are hit or miss. Some days are better than others. I was prescribed Phentermine for obesity.,4,"December 14, 2017",126,100,17
+995,Montelukast,Allergies,Not worth the side effects. Very disappointed. I was prescribed Montelukast for allergies.,3,"March 21, 2016",44,90,13
+1804,Budesonide,Asthma,Too many side effects. Had to switch medications. I was prescribed Budesonide for asthma.,2,"February 07, 2021",159,89,14
+2643,Rizatriptan,Migraine,Initially helped but stopped working after a month. I was prescribed Rizatriptan for migraine.,3,"April 28, 2022",197,94,14
+4803,Metoprolol,High Blood Pressure,My doctor took me off this due to adverse reactions. I was prescribed Metoprolol for high blood pressure.,2,"July 12, 2020",98,105,18
+3536,Azithromycin,Pneumonia,I noticed improvement within the first week. I was prescribed Azithromycin for pneumonia.,9,"January 09, 2016",146,89,13
+4832,Humira,Arthritis,Did not work for me at all. Waste of money. I was prescribed Humira for arthritis.,3,"May 09, 2015",41,82,16
+3912,Atorvastatin,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Atorvastatin for high cholesterol.,6,"April 21, 2020",39,101,17
+2108,Strattera,ADHD,I noticed improvement within the first week. I was prescribed Strattera for adhd.,7,"January 02, 2020",29,81,13
+3045,Ortho Tri-Cyclen,Birth Control,My doctor recommended this and it really helped. I was prescribed Ortho Tri-Cyclen for birth control.,7,"October 30, 2016",108,101,16
+417,Azithromycin,Pneumonia,Highly recommend to anyone dealing with this condition. I was prescribed Azithromycin for pneumonia.,9,"March 10, 2022",43,100,14
+978,Sumatriptan,Migraine,Not worth the side effects. Very disappointed. I was prescribed Sumatriptan for migraine.,1,"March 23, 2021",36,89,13
+2418,Buspirone,Anxiety,Results are hit or miss. Some days are better than others. I was prescribed Buspirone for anxiety.,6,"September 06, 2021",31,98,17
+506,Venlafaxine,Depression,It works okay but nothing spectacular. I was prescribed Venlafaxine for depression.,4,"October 10, 2015",120,83,12
+4153,Lisinopril,High Blood Pressure,Average medication. Does what it is supposed to do. I was prescribed Lisinopril for high blood pressure.,6,"November 24, 2022",15,104,17
+4256,Hydroxyzine,Anxiety,Very effective treatment. I was prescribed Hydroxyzine for anxiety.,8,"March 06, 2019",153,67,9
+3942,Armour Thyroid,Hypothyroidism,Been taking for months with consistent positive results. I was prescribed Armour Thyroid for hypothyroidism.,9,"August 14, 2019",171,108,15
+415,Rizatriptan,Migraine,It works okay but nothing spectacular. I was prescribed Rizatriptan for migraine.,6,"October 23, 2017",50,81,12
+4149,Omeprazole,GERD,Results are hit or miss. Some days are better than others. I was prescribed Omeprazole for gerd.,4,"June 21, 2019",70,96,17
+1184,Atorvastatin,High Cholesterol,Made my condition worse. Would not recommend. I was prescribed Atorvastatin for high cholesterol.,2,"January 08, 2017",140,97,14
+486,Simvastatin,High Cholesterol,Did not work for me at all. Waste of money. I was prescribed Simvastatin for high cholesterol.,2,"June 30, 2019",171,94,17
+894,Doxepin,Insomnia,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Doxepin for insomnia.,8,"September 24, 2019",166,108,17
+806,Vyvanse,ADHD,Average medication. Does what it is supposed to do. I was prescribed Vyvanse for adhd.,5,"October 29, 2020",117,86,15
+556,Trazodone,Insomnia,Average medication. Does what it is supposed to do. I was prescribed Trazodone for insomnia.,4,"June 14, 2019",20,92,15
+3826,Januvia,Diabetes Type 2,My doctor recommended this and it really helped. I was prescribed Januvia for diabetes type 2.,8,"November 28, 2016",200,94,16
+1198,Lithium,Bipolar Disorder,Changed my life for the better. Finally feel normal again. I was prescribed Lithium for bipolar disorder.,7,"March 15, 2022",76,105,17
+4254,Famotidine,GERD,Too many side effects. Had to switch medications. I was prescribed Famotidine for gerd.,3,"September 22, 2019",80,87,14
+4059,Naproxen,Pain,Changed my life for the better. Finally feel normal again. I was prescribed Naproxen for pain.,8,"August 09, 2016",165,94,16
+1294,Amoxicillin,UTI,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Amoxicillin for uti.,8,"January 06, 2017",156,107,17
+2222,Acetaminophen,Pain,Results are hit or miss. Some days are better than others. I was prescribed Acetaminophen for pain.,4,"August 17, 2020",185,99,17
+3505,Vyvanse,ADHD,Average medication. Does what it is supposed to do. I was prescribed Vyvanse for adhd.,4,"April 08, 2020",130,86,15
+3655,Simvastatin,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Simvastatin for high cholesterol.,6,"November 06, 2022",47,100,17
+4759,Ortho Tri-Cyclen,Birth Control,No major complaints but no major improvements either. I was prescribed Ortho Tri-Cyclen for birth control.,4,"March 14, 2016",57,106,16
+3007,Tramadol,Pain,My doctor recommended this and it really helped. I was prescribed Tramadol for pain.,7,"March 21, 2015",180,84,14
+2094,Prednisone,Arthritis,The drowsiness was unbearable. Could not function normally. I was prescribed Prednisone for arthritis.,3,"February 27, 2019",174,102,14
+2188,Ambien,Insomnia,No major complaints but no major improvements either. I was prescribed Ambien for insomnia.,5,"March 03, 2022",94,91,14
+3037,Atorvastatin,High Cholesterol,Results are hit or miss. Some days are better than others. I was prescribed Atorvastatin for high cholesterol.,5,"June 12, 2021",75,110,18
+3919,Valproate,Bipolar Disorder,Very effective treatment. I was prescribed Valproate for bipolar disorder.,8,"May 03, 2015",140,74,10
+1273,Naproxen,Pain,Made my condition worse. Would not recommend. I was prescribed Naproxen for pain.,3,"January 02, 2017",196,81,13
+291,Famotidine,GERD,Been on this for a while. Seems to help somewhat. I was prescribed Famotidine for gerd.,5,"December 21, 2021",157,87,16
+4828,Synthroid,Hypothyroidism,Great results overall. I was prescribed Synthroid for hypothyroidism.,7,"June 21, 2019",187,69,9
+253,Montelukast,Allergies,Works well with minimal side effects. I was prescribed Montelukast for allergies.,10,"July 26, 2016",11,81,12
+3246,Glipizide,Diabetes Type 2,Works well with minimal side effects. I was prescribed Glipizide for diabetes type 2.,7,"September 03, 2022",59,85,14
+351,Synthroid,Hypothyroidism,No major complaints but no major improvements either. I was prescribed Synthroid for hypothyroidism.,6,"January 13, 2020",59,100,14
+1188,Amoxicillin,Pneumonia,Been on this for a while. Seems to help somewhat. I was prescribed Amoxicillin for pneumonia.,5,"February 12, 2021",54,93,16
+1962,Ranitidine,GERD,No major complaints but no major improvements either. I was prescribed Ranitidine for gerd.,6,"November 07, 2015",91,91,14
+423,Montelukast,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Montelukast for asthma.,5,"October 26, 2015",176,99,17
+91,Saxenda,Obesity,No major complaints but no major improvements either. I was prescribed Saxenda for obesity.,6,"January 05, 2021",84,91,14
+3730,Melatonin,Insomnia,Gained significant weight while on this medication. I was prescribed Melatonin for insomnia.,1,"January 25, 2017",164,92,13
+2237,Januvia,Diabetes Type 2,It works okay but nothing spectacular. I was prescribed Januvia for diabetes type 2.,6,"January 07, 2018",93,84,14
+671,Famotidine,GERD,Works well with minimal side effects. I was prescribed Famotidine for gerd.,9,"March 13, 2023",26,75,12
+3041,NuvaRing,Birth Control,Changed my life for the better. Finally feel normal again. I was prescribed NuvaRing for birth control.,7,"September 17, 2016",48,103,17
+27,Bupropion,Depression,Caused severe headaches and nausea. I was prescribed Bupropion for depression.,3,"September 06, 2021",119,78,11
+430,Rosuvastatin,High Cholesterol,Made my condition worse. Would not recommend. I was prescribed Rosuvastatin for high cholesterol.,1,"September 03, 2018",147,97,14
+684,Phentermine,Obesity,Very effective treatment. I was prescribed Phentermine for obesity.,7,"July 20, 2018",33,67,9
+4464,Fluoxetine,Depression,Changed my life for the better. Finally feel normal again. I was prescribed Fluoxetine for depression.,8,"August 28, 2021",197,102,16
+3946,Azithromycin,Pneumonia,My doctor recommended this and it really helped. I was prescribed Azithromycin for pneumonia.,8,"April 04, 2015",101,93,14
+3524,Saxenda,Obesity,Great results overall. I was prescribed Saxenda for obesity.,10,"December 24, 2017",13,60,9
+1542,Ezetimibe,High Cholesterol,I noticed improvement within the first week. I was prescribed Ezetimibe for high cholesterol.,10,"August 02, 2021",153,93,14
+2032,Sumatriptan,Migraine,Did not work for me at all. Waste of money. I was prescribed Sumatriptan for migraine.,3,"June 14, 2017",105,86,16
+2233,Januvia,Diabetes Type 2,Too many side effects. Had to switch medications. I was prescribed Januvia for diabetes type 2.,1,"August 21, 2016",109,95,16
+4121,Fluticasone,Asthma,Average medication. Does what it is supposed to do. I was prescribed Fluticasone for asthma.,4,"February 05, 2015",147,92,15
+3236,NuvaRing,Birth Control,It works okay but nothing spectacular. I was prescribed NuvaRing for birth control.,6,"May 18, 2021",3,83,13
+255,Pantoprazole,GERD,Caused severe headaches and nausea. I was prescribed Pantoprazole for gerd.,2,"February 02, 2020",94,75,11
+1030,Amlodipine,High Blood Pressure,Not worth the side effects. Very disappointed. I was prescribed Amlodipine for high blood pressure.,3,"August 27, 2020",175,99,15
+4393,Valproate,Bipolar Disorder,Results are hit or miss. Some days are better than others. I was prescribed Valproate for bipolar disorder.,6,"August 26, 2021",142,107,18
+3801,Azithromycin,Pneumonia,Too many side effects. Had to switch medications. I was prescribed Azithromycin for pneumonia.,2,"January 16, 2021",141,94,14
+4311,Levothyroxine,Hypothyroidism,It works okay but nothing spectacular. I was prescribed Levothyroxine for hypothyroidism.,6,"March 13, 2022",175,89,12
+2510,Prednisone,Arthritis,My doctor took me off this due to adverse reactions. I was prescribed Prednisone for arthritis.,2,"December 07, 2018",139,95,16
+2293,Diazepam,Anxiety,Some improvement but still dealing with symptoms. I was prescribed Diazepam for anxiety.,6,"March 27, 2016",57,88,13
+1324,Fexofenadine,Allergies,Highly recommend to anyone dealing with this condition. I was prescribed Fexofenadine for allergies.,7,"July 31, 2018",197,100,14
+1551,Nitrofurantoin,UTI,No major complaints but no major improvements either. I was prescribed Nitrofurantoin for uti.,5,"June 20, 2022",73,94,14
+4648,Fluticasone,Asthma,Average medication. Does what it is supposed to do. I was prescribed Fluticasone for asthma.,5,"April 23, 2017",12,92,15
+316,Ezetimibe,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Ezetimibe for high cholesterol.,6,"November 19, 2015",101,98,17
+1243,Orlistat,Obesity,Results are hit or miss. Some days are better than others. I was prescribed Orlistat for obesity.,4,"August 17, 2016",167,97,17
+2451,Simvastatin,High Cholesterol,The drowsiness was unbearable. Could not function normally. I was prescribed Simvastatin for high cholesterol.,3,"March 22, 2017",50,110,15
+1579,Metformin,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Metformin for diabetes type 2.,4,"June 27, 2022",2,99,17
+4626,Doxycycline,Acne,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Doxycycline for acne.,9,"April 24, 2022",99,108,17
+3117,Diazepam,Anxiety,Results are hit or miss. Some days are better than others. I was prescribed Diazepam for anxiety.,5,"July 24, 2021",43,97,17
+70,Ranitidine,GERD,Average medication. Does what it is supposed to do. I was prescribed Ranitidine for gerd.,4,"October 08, 2016",112,89,15
+860,Ezetimibe,High Cholesterol,Been taking for months with consistent positive results. I was prescribed Ezetimibe for high cholesterol.,7,"October 24, 2019",122,105,15
+2754,Montelukast,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Montelukast for asthma.,5,"January 17, 2016",56,99,17
+1633,Humira,Arthritis,Been on this for a while. Seems to help somewhat. I was prescribed Humira for arthritis.,4,"May 11, 2018",93,88,16
+1651,Ranitidine,GERD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Ranitidine for gerd.,7,"June 11, 2020",143,107,17
+3861,Lithium,Bipolar Disorder,No major complaints but no major improvements either. I was prescribed Lithium for bipolar disorder.,4,"August 12, 2022",50,100,15
+3107,Trimethoprim,UTI,Too many side effects. Had to switch medications. I was prescribed Trimethoprim for uti.,2,"May 22, 2019",40,88,14
+1075,NuvaRing,Birth Control,I noticed improvement within the first week. I was prescribed NuvaRing for birth control.,8,"August 30, 2022",48,89,14
+4002,Ambien,Insomnia,No major complaints but no major improvements either. I was prescribed Ambien for insomnia.,5,"January 16, 2019",193,91,14
+788,Atorvastatin,High Cholesterol,My doctor recommended this and it really helped. I was prescribed Atorvastatin for high cholesterol.,7,"June 04, 2022",160,100,15
+2606,Orlistat,Obesity,No major complaints but no major improvements either. I was prescribed Orlistat for obesity.,5,"December 05, 2018",110,92,14
+3631,Metformin,Diabetes Type 2,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Metformin for diabetes type 2.,7,"December 28, 2016",8,117,19
+2122,Topiramate,Migraine,Highly recommend to anyone dealing with this condition. I was prescribed Topiramate for migraine.,7,"June 11, 2022",154,97,14
+1875,Meloxicam,Arthritis,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Meloxicam for arthritis.,9,"January 23, 2018",62,111,17
+812,Fluticasone,Asthma,Been on this for a while. Seems to help somewhat. I was prescribed Fluticasone for asthma.,4,"October 29, 2021",174,90,16
+388,Meloxicam,Arthritis,My doctor recommended this and it really helped. I was prescribed Meloxicam for arthritis.,10,"January 01, 2020",154,90,14
+2883,Albuterol,Asthma,Some improvement but still dealing with symptoms. I was prescribed Albuterol for asthma.,4,"January 29, 2015",86,88,13
+1176,Nitrofurantoin,UTI,Results are hit or miss. Some days are better than others. I was prescribed Nitrofurantoin for uti.,5,"March 02, 2022",15,99,17
+3198,Budesonide,Asthma,Did not work for me at all. Waste of money. I was prescribed Budesonide for asthma.,1,"July 02, 2022",141,83,16
+2624,Doxycycline,Pneumonia,My doctor recommended this and it really helped. I was prescribed Doxycycline for pneumonia.,9,"November 18, 2015",52,92,14
+1352,Azithromycin,Pneumonia,Gained significant weight while on this medication. I was prescribed Azithromycin for pneumonia.,1,"April 02, 2019",83,96,13
+411,Contrave,Obesity,I noticed improvement within the first week. I was prescribed Contrave for obesity.,7,"March 08, 2021",163,83,13
+4213,Fluticasone,Asthma,My doctor recommended this and it really helped. I was prescribed Fluticasone for asthma.,7,"March 06, 2022",11,89,14
+110,Bupropion,Depression,Results are hit or miss. Some days are better than others. I was prescribed Bupropion for depression.,5,"January 23, 2022",147,101,17
+4996,Isotretinoin,Acne,It works okay but nothing spectacular. I was prescribed Isotretinoin for acne.,5,"December 21, 2017",177,78,12
+3430,Rosuvastatin,High Cholesterol,Changed my life for the better. Finally feel normal again. I was prescribed Rosuvastatin for high cholesterol.,8,"July 04, 2019",95,110,17
+2810,Trazodone,Insomnia,No major complaints but no major improvements either. I was prescribed Trazodone for insomnia.,4,"August 23, 2015",146,94,14
+2595,Amlodipine,High Blood Pressure,My doctor recommended this and it really helped. I was prescribed Amlodipine for high blood pressure.,8,"October 26, 2017",99,101,16
+2837,Simvastatin,High Cholesterol,My doctor recommended this and it really helped. I was prescribed Simvastatin for high cholesterol.,10,"April 29, 2017",87,99,15
+2373,Fluoxetine,Depression,It works okay but nothing spectacular. I was prescribed Fluoxetine for depression.,6,"January 26, 2018",103,82,12
+1236,Januvia,Diabetes Type 2,Been taking for months with consistent positive results. I was prescribed Januvia for diabetes type 2.,10,"May 01, 2015",142,102,16
+2147,Benzoyl Peroxide,Acne,Did not work for me at all. Waste of money. I was prescribed Benzoyl Peroxide for acne.,1,"March 14, 2020",166,87,17
+4976,Phentermine,Obesity,Not worth the side effects. Very disappointed. I was prescribed Phentermine for obesity.,2,"July 14, 2020",52,88,13
+600,Ezetimibe,High Cholesterol,It works okay but nothing spectacular. I was prescribed Ezetimibe for high cholesterol.,6,"January 14, 2020",153,87,13
+1435,Lamotrigine,Bipolar Disorder,Results are hit or miss. Some days are better than others. I was prescribed Lamotrigine for bipolar disorder.,5,"May 12, 2019",16,109,18
+4997,Ortho Tri-Cyclen,Birth Control,Been taking for months with consistent positive results. I was prescribed Ortho Tri-Cyclen for birth control.,7,"February 13, 2016",27,109,16
+539,Amoxicillin,UTI,Works well with minimal side effects. I was prescribed Amoxicillin for uti.,8,"February 07, 2023",120,75,12
+722,Lithium,Bipolar Disorder,Caused severe headaches and nausea. I was prescribed Lithium for bipolar disorder.,1,"June 06, 2022",33,82,12
+4411,Insulin Glargine,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Insulin Glargine for diabetes type 2.,4,"January 14, 2020",158,106,18
+1873,Alprazolam,Anxiety,No major complaints but no major improvements either. I was prescribed Alprazolam for anxiety.,5,"March 29, 2021",71,94,14
+2846,Rizatriptan,Migraine,Made my condition worse. Would not recommend. I was prescribed Rizatriptan for migraine.,3,"March 27, 2020",139,88,13
+2054,Fexofenadine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Fexofenadine for allergies.,5,"January 11, 2020",162,94,16
+2908,Levofloxacin,Pneumonia,Did not work for me at all. Waste of money. I was prescribed Levofloxacin for pneumonia.,3,"June 25, 2017",57,88,16
+2255,Mirena,Birth Control,My doctor took me off this due to adverse reactions. I was prescribed Mirena for birth control.,2,"September 05, 2022",136,95,17
+3913,Albuterol,Asthma,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Albuterol for asthma.,8,"September 07, 2019",7,108,17
+178,Ortho Tri-Cyclen,Birth Control,My doctor recommended this and it really helped. I was prescribed Ortho Tri-Cyclen for birth control.,9,"May 29, 2022",20,101,16
+2891,Hydroxyzine,Anxiety,No major complaints but no major improvements either. I was prescribed Hydroxyzine for anxiety.,6,"May 30, 2015",136,95,14
+3674,Losartan,High Blood Pressure,Changed my life for the better. Finally feel normal again. I was prescribed Losartan for high blood pressure.,8,"June 09, 2022",13,109,18
+81,Ritalin,ADHD,Results are hit or miss. Some days are better than others. I was prescribed Ritalin for adhd.,5,"June 06, 2016",10,93,17
+2562,Cetirizine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Cetirizine for allergies.,6,"July 12, 2020",94,92,16
+1724,Amoxicillin,UTI,My doctor recommended this and it really helped. I was prescribed Amoxicillin for uti.,7,"August 30, 2021",168,86,14
+1618,Amoxicillin,UTI,Results are hit or miss. Some days are better than others. I was prescribed Amoxicillin for uti.,4,"April 21, 2021",40,96,17
+1655,Nitrofurantoin,UTI,It works okay but nothing spectacular. I was prescribed Nitrofurantoin for uti.,6,"December 10, 2015",80,79,12
+2329,Adderall,ADHD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Adderall for adhd.,7,"May 09, 2020",80,105,17
+4614,Lithium,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Lithium for bipolar disorder.,4,"January 31, 2023",96,96,17
+222,Escitalopram,Depression,Not worth the side effects. Very disappointed. I was prescribed Escitalopram for depression.,1,"April 06, 2019",81,92,13
+94,Rizatriptan,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Rizatriptan for migraine.,5,"October 19, 2021",130,101,17
+2610,Fluticasone,Asthma,Been taking for months with consistent positive results. I was prescribed Fluticasone for asthma.,9,"November 12, 2022",109,97,14
+3383,Armour Thyroid,Hypothyroidism,It works okay but nothing spectacular. I was prescribed Armour Thyroid for hypothyroidism.,6,"December 04, 2017",58,90,13
+4416,Cetirizine,Allergies,Changed my life for the better. Finally feel normal again. I was prescribed Cetirizine for allergies.,7,"February 21, 2016",59,101,16
+1398,Saxenda,Obesity,Terrible side effects made me stop taking it. I was prescribed Saxenda for obesity.,3,"March 28, 2018",114,83,14
+4687,Albuterol,Asthma,It works okay but nothing spectacular. I was prescribed Albuterol for asthma.,4,"March 11, 2021",166,77,12
+1293,Trazodone,Insomnia,Some improvement but still dealing with symptoms. I was prescribed Trazodone for insomnia.,5,"November 21, 2021",144,90,13
+2165,Meloxicam,Arthritis,Changed my life for the better. Finally feel normal again. I was prescribed Meloxicam for arthritis.,9,"January 13, 2021",130,100,16
+2940,Cetirizine,Allergies,It works okay but nothing spectacular. I was prescribed Cetirizine for allergies.,5,"April 27, 2017",147,81,12
+3669,Synthroid,Hypothyroidism,Average medication. Does what it is supposed to do. I was prescribed Synthroid for hypothyroidism.,5,"April 24, 2022",9,98,15
+813,Albuterol,Asthma,Been taking for months with consistent positive results. I was prescribed Albuterol for asthma.,9,"September 19, 2018",176,95,14
+1259,Lithium,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Lithium for bipolar disorder.,4,"March 23, 2016",115,96,17
+890,Atorvastatin,High Cholesterol,Works well with minimal side effects. I was prescribed Atorvastatin for high cholesterol.,8,"July 07, 2015",2,89,13
+1452,Fluticasone,Asthma,This medication has been a lifesaver. I was prescribed Fluticasone for asthma.,10,"June 17, 2020",20,78,12
+3317,Gabapentin,Pain,Been on this for a while. Seems to help somewhat. I was prescribed Gabapentin for pain.,5,"February 14, 2017",179,87,16
+2560,Amlodipine,High Blood Pressure,I noticed improvement within the first week. I was prescribed Amlodipine for high blood pressure.,8,"May 16, 2022",61,97,15
+3575,Azithromycin,Pneumonia,Did not work for me at all. Waste of money. I was prescribed Azithromycin for pneumonia.,2,"March 26, 2019",34,88,16
+2681,Diazepam,Anxiety,My doctor recommended this and it really helped. I was prescribed Diazepam for anxiety.,7,"March 21, 2021",182,87,14
+4652,Loratadine,Allergies,Works well with minimal side effects. I was prescribed Loratadine for allergies.,7,"July 10, 2018",157,80,12
+4812,Tramadol,Pain,Caused severe headaches and nausea. I was prescribed Tramadol for pain.,1,"February 18, 2019",178,71,11
+4680,Sertraline,Depression,Some improvement but still dealing with symptoms. I was prescribed Sertraline for depression.,6,"January 29, 2021",140,93,13
+2965,Saxenda,Obesity,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Saxenda for obesity.,9,"December 08, 2021",43,107,17
+2673,Liothyronine,Hypothyroidism,Average medication. Does what it is supposed to do. I was prescribed Liothyronine for hypothyroidism.,6,"November 23, 2015",90,101,15
+562,Methotrexate,Arthritis,Highly recommend to anyone dealing with this condition. I was prescribed Methotrexate for arthritis.,10,"June 24, 2015",58,100,14
+2779,Naproxen,Pain,Been on this for a while. Seems to help somewhat. I was prescribed Naproxen for pain.,5,"January 07, 2023",121,85,16
+2949,Januvia,Diabetes Type 2,Results are hit or miss. Some days are better than others. I was prescribed Januvia for diabetes type 2.,5,"January 14, 2023",130,104,19
+2818,Isotretinoin,Acne,Been on this for a while. Seems to help somewhat. I was prescribed Isotretinoin for acne.,6,"February 28, 2015",170,89,16
+2759,Famotidine,GERD,The drowsiness was unbearable. Could not function normally. I was prescribed Famotidine for gerd.,3,"May 06, 2020",144,97,14
+1757,Yaz,Birth Control,Some improvement but still dealing with symptoms. I was prescribed Yaz for birth control.,5,"May 24, 2020",166,89,14
+725,Fluoxetine,Depression,Some improvement but still dealing with symptoms. I was prescribed Fluoxetine for depression.,6,"July 22, 2021",27,93,13
+220,Rosuvastatin,High Cholesterol,It works okay but nothing spectacular. I was prescribed Rosuvastatin for high cholesterol.,6,"April 07, 2020",200,90,13
+4140,Metformin,Diabetes Type 2,It works okay but nothing spectacular. I was prescribed Metformin for diabetes type 2.,6,"November 28, 2021",92,86,14
+3958,Isotretinoin,Acne,It works okay but nothing spectacular. I was prescribed Isotretinoin for acne.,5,"July 30, 2016",101,78,12
+1589,Rosuvastatin,High Cholesterol,Not worth the side effects. Very disappointed. I was prescribed Rosuvastatin for high cholesterol.,3,"July 21, 2017",104,98,14
+3348,Pantoprazole,GERD,Very effective treatment. I was prescribed Pantoprazole for gerd.,9,"September 20, 2022",59,65,9
+3971,Valproate,Bipolar Disorder,No major complaints but no major improvements either. I was prescribed Valproate for bipolar disorder.,5,"April 04, 2015",126,102,15
+4708,NuvaRing,Birth Control,No major complaints but no major improvements either. I was prescribed NuvaRing for birth control.,4,"June 23, 2016",11,98,15
+44,Methotrexate,Arthritis,Been on this for a while. Seems to help somewhat. I was prescribed Methotrexate for arthritis.,5,"September 01, 2017",71,94,16
+3002,Doxycycline,Pneumonia,Initially helped but stopped working after a month. I was prescribed Doxycycline for pneumonia.,3,"July 25, 2017",67,95,14
+211,Fexofenadine,Allergies,Changed my life for the better. Finally feel normal again. I was prescribed Fexofenadine for allergies.,7,"July 03, 2021",168,103,16
+678,Diazepam,Anxiety,Very effective treatment. I was prescribed Diazepam for anxiety.,10,"October 25, 2019",80,64,9
+355,Acetaminophen,Pain,It works okay but nothing spectacular. I was prescribed Acetaminophen for pain.,5,"March 11, 2022",123,79,12
+1434,Ortho Tri-Cyclen,Birth Control,It works okay but nothing spectacular. I was prescribed Ortho Tri-Cyclen for birth control.,4,"March 01, 2017",6,91,14
+950,Ibuprofen,Pain,Some improvement but still dealing with symptoms. I was prescribed Ibuprofen for pain.,6,"August 14, 2018",152,86,13
+2844,Sumatriptan,Migraine,Made my condition worse. Would not recommend. I was prescribed Sumatriptan for migraine.,3,"September 23, 2019",121,88,13
+578,Benzoyl Peroxide,Acne,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Benzoyl Peroxide for acne.,7,"March 31, 2021",142,113,18
+3929,Metformin,Diabetes Type 2,Made my condition worse. Would not recommend. I was prescribed Metformin for diabetes type 2.,3,"May 13, 2020",192,93,15
+545,Amoxicillin,UTI,Made my condition worse. Would not recommend. I was prescribed Amoxicillin for uti.,1,"December 13, 2018",43,83,13
+368,Doxycycline,Pneumonia,It works okay but nothing spectacular. I was prescribed Doxycycline for pneumonia.,6,"March 30, 2016",127,82,12
+1613,Insulin Glargine,Diabetes Type 2,Works well with minimal side effects. I was prescribed Insulin Glargine for diabetes type 2.,8,"April 21, 2019",115,92,15
+3551,Budesonide,Asthma,It works okay but nothing spectacular. I was prescribed Budesonide for asthma.,4,"September 12, 2022",144,78,12
+3717,Nitrofurantoin,UTI,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Nitrofurantoin for uti.,10,"January 19, 2019",103,110,17
+3780,Losartan,High Blood Pressure,Some improvement but still dealing with symptoms. I was prescribed Losartan for high blood pressure.,5,"December 05, 2016",40,100,15
+136,Yaz,Birth Control,Changed my life for the better. Finally feel normal again. I was prescribed Yaz for birth control.,9,"September 16, 2016",61,98,17
+4481,Amoxicillin,Pneumonia,Did not work for me at all. Waste of money. I was prescribed Amoxicillin for pneumonia.,3,"February 20, 2021",96,87,16
+1438,Insulin Glargine,Diabetes Type 2,Works well with minimal side effects. I was prescribed Insulin Glargine for diabetes type 2.,10,"May 17, 2017",167,92,15
+48,Propranolol,Migraine,Been taking for months with consistent positive results. I was prescribed Propranolol for migraine.,8,"March 27, 2020",186,99,14
+1361,Sumatriptan,Migraine,Average medication. Does what it is supposed to do. I was prescribed Sumatriptan for migraine.,5,"May 08, 2015",60,94,15
+735,Lisinopril,High Blood Pressure,Great results overall. I was prescribed Lisinopril for high blood pressure.,8,"June 19, 2016",50,75,11
+1535,Venlafaxine,Depression,Results are hit or miss. Some days are better than others. I was prescribed Venlafaxine for depression.,4,"August 05, 2022",171,103,17
+2005,Mirena,Birth Control,Caused severe headaches and nausea. I was prescribed Mirena for birth control.,1,"March 14, 2021",31,78,12
+3796,Venlafaxine,Depression,It works okay but nothing spectacular. I was prescribed Venlafaxine for depression.,5,"October 15, 2022",32,83,12
+2520,Trazodone,Insomnia,Too many side effects. Had to switch medications. I was prescribed Trazodone for insomnia.,3,"June 18, 2015",148,90,14
+1973,Strattera,ADHD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Strattera for adhd.,7,"October 27, 2018",21,106,17
+997,NuvaRing,Birth Control,Works well with minimal side effects. I was prescribed NuvaRing for birth control.,10,"February 27, 2023",19,82,13
+62,Tretinoin,Acne,Been on this for a while. Seems to help somewhat. I was prescribed Tretinoin for acne.,5,"October 06, 2015",172,86,16
+1109,Doxepin,Insomnia,Average medication. Does what it is supposed to do. I was prescribed Doxepin for insomnia.,4,"August 01, 2021",133,90,15
+2406,Doxycycline,Pneumonia,This medication has been a lifesaver. I was prescribed Doxycycline for pneumonia.,9,"June 24, 2021",109,81,12
+96,Insulin Glargine,Diabetes Type 2,Terrible side effects made me stop taking it. I was prescribed Insulin Glargine for diabetes type 2.,2,"October 30, 2020",137,100,17
+479,Losartan,High Blood Pressure,Changed my life for the better. Finally feel normal again. I was prescribed Losartan for high blood pressure.,10,"October 04, 2021",27,109,18
+4360,Venlafaxine,Depression,This medication has been a lifesaver. I was prescribed Venlafaxine for depression.,7,"May 30, 2021",94,82,12
+4113,Naproxen,Pain,This medication has been a lifesaver. I was prescribed Naproxen for pain.,9,"May 10, 2016",158,73,12
+3708,Fluoxetine,Depression,Highly recommend to anyone dealing with this condition. I was prescribed Fluoxetine for depression.,9,"October 05, 2021",153,99,14
+1102,Lamotrigine,Bipolar Disorder,Initially helped but stopped working after a month. I was prescribed Lamotrigine for bipolar disorder.,1,"December 25, 2018",83,102,15
+2747,Diazepam,Anxiety,No major complaints but no major improvements either. I was prescribed Diazepam for anxiety.,6,"June 30, 2019",33,92,14
+2171,Budesonide,Asthma,Works well with minimal side effects. I was prescribed Budesonide for asthma.,8,"November 07, 2017",173,77,12
+323,Valproate,Bipolar Disorder,Gained significant weight while on this medication. I was prescribed Valproate for bipolar disorder.,3,"March 18, 2022",162,100,14
+4255,Famotidine,GERD,No major complaints but no major improvements either. I was prescribed Famotidine for gerd.,6,"April 06, 2022",32,91,14
+3143,Ciprofloxacin,UTI,Average medication. Does what it is supposed to do. I was prescribed Ciprofloxacin for uti.,5,"November 29, 2019",92,91,15
+3538,Famotidine,GERD,Too many side effects. Had to switch medications. I was prescribed Famotidine for gerd.,3,"September 18, 2017",117,87,14
+4926,Lamotrigine,Bipolar Disorder,It works okay but nothing spectacular. I was prescribed Lamotrigine for bipolar disorder.,4,"December 29, 2019",119,89,13
+2925,Budesonide,Asthma,Average medication. Does what it is supposed to do. I was prescribed Budesonide for asthma.,6,"June 10, 2017",107,91,15
+1150,Alprazolam,Anxiety,Caused severe headaches and nausea. I was prescribed Alprazolam for anxiety.,3,"August 22, 2018",3,76,11
+3618,Ritalin,ADHD,Some improvement but still dealing with symptoms. I was prescribed Ritalin for adhd.,5,"October 15, 2017",118,84,13
+292,Adderall,ADHD,Been on this for a while. Seems to help somewhat. I was prescribed Adderall for adhd.,4,"May 18, 2022",177,85,16
+3750,Fluticasone,Asthma,Not worth the side effects. Very disappointed. I was prescribed Fluticasone for asthma.,2,"September 18, 2020",164,87,13
+3587,Famotidine,GERD,Average medication. Does what it is supposed to do. I was prescribed Famotidine for gerd.,4,"June 16, 2020",102,89,15
+534,Cetirizine,Allergies,Too many side effects. Had to switch medications. I was prescribed Cetirizine for allergies.,2,"February 17, 2017",189,92,14
+3608,Tretinoin,Acne,My doctor recommended this and it really helped. I was prescribed Tretinoin for acne.,8,"February 26, 2023",123,85,14
+2649,Levofloxacin,Pneumonia,It works okay but nothing spectacular. I was prescribed Levofloxacin for pneumonia.,6,"December 10, 2019",46,83,12
+4811,Propranolol,Migraine,I noticed improvement within the first week. I was prescribed Propranolol for migraine.,7,"July 30, 2022",4,87,13
+1984,Cetirizine,Allergies,I noticed improvement within the first week. I was prescribed Cetirizine for allergies.,8,"March 03, 2016",172,87,13
+2933,Amlodipine,High Blood Pressure,Made my condition worse. Would not recommend. I was prescribed Amlodipine for high blood pressure.,3,"November 02, 2021",158,98,15
+1537,Methotrexate,Arthritis,Very effective treatment. I was prescribed Methotrexate for arthritis.,7,"June 17, 2019",37,70,9
+4535,Quetiapine,Bipolar Disorder,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Quetiapine for bipolar disorder.,7,"September 17, 2018",116,119,18
+4173,Quetiapine,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Quetiapine for bipolar disorder.,4,"January 13, 2015",80,99,17
+3361,Ritalin,ADHD,Too many side effects. Had to switch medications. I was prescribed Ritalin for adhd.,3,"September 13, 2021",154,84,14
+3666,Fexofenadine,Allergies,Terrible side effects made me stop taking it. I was prescribed Fexofenadine for allergies.,2,"July 27, 2019",150,90,14
+4006,Meloxicam,Arthritis,My doctor recommended this and it really helped. I was prescribed Meloxicam for arthritis.,7,"October 25, 2017",46,90,14
+3627,Pantoprazole,GERD,The drowsiness was unbearable. Could not function normally. I was prescribed Pantoprazole for gerd.,3,"October 14, 2016",153,99,14
+587,Famotidine,GERD,Been on this for a while. Seems to help somewhat. I was prescribed Famotidine for gerd.,4,"November 30, 2021",50,87,16
+3257,Liothyronine,Hypothyroidism,Not worth the side effects. Very disappointed. I was prescribed Liothyronine for hypothyroidism.,3,"July 18, 2017",102,96,13
+2299,Ciprofloxacin,UTI,My doctor recommended this and it really helped. I was prescribed Ciprofloxacin for uti.,7,"December 23, 2022",19,88,14
+3989,Levofloxacin,Pneumonia,Changed my life for the better. Finally feel normal again. I was prescribed Levofloxacin for pneumonia.,10,"September 28, 2020",141,103,16
+585,Fluoxetine,Depression,Results are hit or miss. Some days are better than others. I was prescribed Fluoxetine for depression.,6,"February 04, 2018",107,102,17
+2424,Doxycycline,Acne,Average medication. Does what it is supposed to do. I was prescribed Doxycycline for acne.,5,"February 11, 2015",45,90,15
+1392,Amoxicillin,UTI,Results are hit or miss. Some days are better than others. I was prescribed Amoxicillin for uti.,4,"September 01, 2017",169,96,17
+4526,Ranitidine,GERD,Works well with minimal side effects. I was prescribed Ranitidine for gerd.,8,"May 19, 2022",153,75,12
+4921,Doxycycline,Acne,This medication has been a lifesaver. I was prescribed Doxycycline for acne.,10,"May 09, 2017",135,76,12
+4801,Orlistat,Obesity,Very effective treatment. I was prescribed Orlistat for obesity.,7,"February 04, 2017",118,64,9
+3241,Levothyroxine,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Levothyroxine for hypothyroidism.,6,"October 12, 2015",62,109,17
+4282,Armour Thyroid,Hypothyroidism,Caused severe headaches and nausea. I was prescribed Armour Thyroid for hypothyroidism.,2,"December 13, 2017",42,87,12
+3339,Doxycycline,Pneumonia,Been taking for months with consistent positive results. I was prescribed Doxycycline for pneumonia.,7,"November 18, 2019",40,100,14
+3221,Loratadine,Allergies,Initially helped but stopped working after a month. I was prescribed Loratadine for allergies.,3,"August 04, 2019",176,94,14
+2112,Doxepin,Insomnia,No major complaints but no major improvements either. I was prescribed Doxepin for insomnia.,5,"May 19, 2016",170,92,14
+1175,Azithromycin,Pneumonia,It works okay but nothing spectacular. I was prescribed Azithromycin for pneumonia.,4,"May 04, 2017",167,83,12
+4863,Fexofenadine,Allergies,Average medication. Does what it is supposed to do. I was prescribed Fexofenadine for allergies.,4,"September 12, 2021",57,96,15
+3812,Synthroid,Hypothyroidism,This medication has been a lifesaver. I was prescribed Synthroid for hypothyroidism.,7,"January 27, 2022",191,84,12
+1868,Levofloxacin,Pneumonia,I noticed improvement within the first week. I was prescribed Levofloxacin for pneumonia.,8,"January 03, 2015",15,89,13
+2615,Adderall,ADHD,This medication has been a lifesaver. I was prescribed Adderall for adhd.,7,"January 27, 2023",63,73,12
+3867,Lisinopril,High Blood Pressure,Been on this for a while. Seems to help somewhat. I was prescribed Lisinopril for high blood pressure.,6,"March 13, 2016",85,102,18
+4886,Amlodipine,High Blood Pressure,Some improvement but still dealing with symptoms. I was prescribed Amlodipine for high blood pressure.,4,"May 26, 2016",135,102,15
+3779,Tretinoin,Acne,Did not work for me at all. Waste of money. I was prescribed Tretinoin for acne.,1,"January 13, 2022",146,80,16
+3847,Isotretinoin,Acne,Great results overall. I was prescribed Isotretinoin for acne.,8,"March 06, 2023",5,62,9
+2417,Fluoxetine,Depression,This medication has been a lifesaver. I was prescribed Fluoxetine for depression.,7,"February 27, 2022",148,81,12
+71,Vyvanse,ADHD,Been on this for a while. Seems to help somewhat. I was prescribed Vyvanse for adhd.,6,"May 02, 2022",135,84,16
+4881,NuvaRing,Birth Control,I noticed improvement within the first week. I was prescribed NuvaRing for birth control.,8,"May 03, 2018",112,89,14
+1127,Metoprolol,High Blood Pressure,Average medication. Does what it is supposed to do. I was prescribed Metoprolol for high blood pressure.,6,"September 11, 2021",59,104,17
+4025,Topiramate,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Topiramate for migraine.,4,"June 13, 2018",22,100,17
+3251,Budesonide,Asthma,Great results overall. I was prescribed Budesonide for asthma.,7,"August 29, 2022",125,62,9
+3902,Tretinoin,Acne,No major complaints but no major improvements either. I was prescribed Tretinoin for acne.,5,"January 30, 2020",65,90,14
+1096,Prednisone,Arthritis,Average medication. Does what it is supposed to do. I was prescribed Prednisone for arthritis.,5,"October 24, 2017",143,94,15
+4546,Omeprazole,GERD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Omeprazole for gerd.,7,"February 05, 2018",34,107,17
+1213,Simvastatin,High Cholesterol,No major complaints but no major improvements either. I was prescribed Simvastatin for high cholesterol.,4,"June 17, 2021",22,104,15
+3922,Strattera,ADHD,Been on this for a while. Seems to help somewhat. I was prescribed Strattera for adhd.,6,"March 30, 2019",88,86,16
+1426,Venlafaxine,Depression,Too many side effects. Had to switch medications. I was prescribed Venlafaxine for depression.,1,"January 14, 2015",98,94,14
+3067,Losartan,High Blood Pressure,This medication has been a lifesaver. I was prescribed Losartan for high blood pressure.,10,"April 11, 2020",8,88,14
+4520,Naproxen,Pain,Caused severe headaches and nausea. I was prescribed Naproxen for pain.,3,"July 05, 2016",111,71,11
+2101,Yaz,Birth Control,No major complaints but no major improvements either. I was prescribed Yaz for birth control.,6,"August 12, 2018",4,93,15
+808,Gabapentin,Pain,Been on this for a while. Seems to help somewhat. I was prescribed Gabapentin for pain.,4,"July 14, 2021",194,87,16
+4744,Melatonin,Insomnia,Been taking for months with consistent positive results. I was prescribed Melatonin for insomnia.,7,"October 16, 2019",162,97,14
+3751,Ibuprofen,Pain,Average medication. Does what it is supposed to do. I was prescribed Ibuprofen for pain.,4,"February 02, 2023",94,88,15
+1363,Budesonide,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Budesonide for asthma.,6,"February 10, 2021",54,98,17
+2318,Acetaminophen,Pain,Some improvement but still dealing with symptoms. I was prescribed Acetaminophen for pain.,4,"November 20, 2015",62,90,13
+4582,Trimethoprim,UTI,The drowsiness was unbearable. Could not function normally. I was prescribed Trimethoprim for uti.,3,"July 12, 2017",33,98,14
+4742,Montelukast,Asthma,Works well with minimal side effects. I was prescribed Montelukast for asthma.,7,"November 12, 2021",196,78,12
+1026,Rosuvastatin,High Cholesterol,Changed my life for the better. Finally feel normal again. I was prescribed Rosuvastatin for high cholesterol.,7,"January 14, 2017",159,110,17
+3110,Albuterol,Asthma,Gained significant weight while on this medication. I was prescribed Albuterol for asthma.,1,"July 16, 2022",38,90,13
+2111,Isotretinoin,Acne,Results are hit or miss. Some days are better than others. I was prescribed Isotretinoin for acne.,4,"February 22, 2018",56,98,17
+1042,Tramadol,Pain,No major complaints but no major improvements either. I was prescribed Tramadol for pain.,4,"July 25, 2021",64,89,14
+1877,Methotrexate,Arthritis,No major complaints but no major improvements either. I was prescribed Methotrexate for arthritis.,4,"July 01, 2016",165,98,14
+882,Melatonin,Insomnia,Average medication. Does what it is supposed to do. I was prescribed Melatonin for insomnia.,4,"November 21, 2022",104,92,15
+4300,Metformin,Diabetes Type 2,Been on this for a while. Seems to help somewhat. I was prescribed Metformin for diabetes type 2.,4,"May 05, 2019",63,97,18
+1193,Melatonin,Insomnia,It works okay but nothing spectacular. I was prescribed Melatonin for insomnia.,4,"June 04, 2015",117,79,12
+4588,Nitrofurantoin,UTI,I noticed improvement within the first week. I was prescribed Nitrofurantoin for uti.,8,"June 12, 2019",25,85,13
+4511,Propranolol,Migraine,Caused severe headaches and nausea. I was prescribed Propranolol for migraine.,3,"March 01, 2020",192,78,11
+3671,Orlistat,Obesity,This medication has been a lifesaver. I was prescribed Orlistat for obesity.,8,"June 27, 2017",115,76,12
+625,Isotretinoin,Acne,Changed my life for the better. Finally feel normal again. I was prescribed Isotretinoin for acne.,9,"August 14, 2021",21,98,16
+2797,Alprazolam,Anxiety,Highly recommend to anyone dealing with this condition. I was prescribed Alprazolam for anxiety.,7,"May 30, 2019",96,96,14
+4292,Montelukast,Allergies,Average medication. Does what it is supposed to do. I was prescribed Montelukast for allergies.,4,"August 19, 2016",50,95,15
+4969,Contrave,Obesity,Been on this for a while. Seems to help somewhat. I was prescribed Contrave for obesity.,5,"September 16, 2020",116,88,16
+234,Quetiapine,Bipolar Disorder,No major complaints but no major improvements either. I was prescribed Quetiapine for bipolar disorder.,4,"October 04, 2019",176,103,15
+4567,Sertraline,Depression,Very effective treatment. I was prescribed Sertraline for depression.,8,"August 26, 2018",166,69,9
+1663,Simvastatin,High Cholesterol,Gained significant weight while on this medication. I was prescribed Simvastatin for high cholesterol.,1,"August 18, 2015",125,102,14
+416,Vyvanse,ADHD,Some improvement but still dealing with symptoms. I was prescribed Vyvanse for adhd.,4,"January 04, 2022",77,84,13
+4247,Quetiapine,Bipolar Disorder,No major complaints but no major improvements either. I was prescribed Quetiapine for bipolar disorder.,6,"January 05, 2016",83,103,15
+2174,Orlistat,Obesity,Results are hit or miss. Some days are better than others. I was prescribed Orlistat for obesity.,6,"September 20, 2016",80,97,17
+1457,Azithromycin,Pneumonia,Changed my life for the better. Finally feel normal again. I was prescribed Azithromycin for pneumonia.,7,"January 07, 2017",183,103,16
+747,Montelukast,Asthma,Results are hit or miss. Some days are better than others. I was prescribed Montelukast for asthma.,6,"February 08, 2021",200,99,17
+18,Pantoprazole,GERD,Results are hit or miss. Some days are better than others. I was prescribed Pantoprazole for gerd.,6,"April 04, 2019",69,98,17
+1201,Omeprazole,GERD,No major complaints but no major improvements either. I was prescribed Omeprazole for gerd.,6,"February 02, 2022",97,91,14
+1700,Buspirone,Anxiety,It works okay but nothing spectacular. I was prescribed Buspirone for anxiety.,6,"September 25, 2018",60,78,12
+3254,Pantoprazole,GERD,My doctor recommended this and it really helped. I was prescribed Pantoprazole for gerd.,8,"February 22, 2022",187,88,14
+597,Armour Thyroid,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Armour Thyroid for hypothyroidism.,5,"April 08, 2018",177,110,18
+3227,Humira,Arthritis,Initially helped but stopped working after a month. I was prescribed Humira for arthritis.,3,"August 20, 2022",183,90,14
+4406,Ortho Tri-Cyclen,Birth Control,My doctor recommended this and it really helped. I was prescribed Ortho Tri-Cyclen for birth control.,8,"May 12, 2018",138,101,16
+4720,Quetiapine,Bipolar Disorder,Results are hit or miss. Some days are better than others. I was prescribed Quetiapine for bipolar disorder.,6,"June 03, 2019",194,108,18
+1506,Vyvanse,ADHD,Results are hit or miss. Some days are better than others. I was prescribed Vyvanse for adhd.,4,"December 18, 2021",94,93,17
+1413,Synthroid,Hypothyroidism,Been taking for months with consistent positive results. I was prescribed Synthroid for hypothyroidism.,7,"October 06, 2022",170,103,14
+1966,Humira,Arthritis,No major complaints but no major improvements either. I was prescribed Humira for arthritis.,6,"September 10, 2018",64,92,14
+372,Tretinoin,Acne,Highly recommend to anyone dealing with this condition. I was prescribed Tretinoin for acne.,7,"January 17, 2019",17,92,14
+1341,Armour Thyroid,Hypothyroidism,Average medication. Does what it is supposed to do. I was prescribed Armour Thyroid for hypothyroidism.,6,"November 28, 2018",154,103,16
+599,Loratadine,Allergies,Average medication. Does what it is supposed to do. I was prescribed Loratadine for allergies.,4,"May 21, 2022",39,94,15
+239,Insulin Glargine,Diabetes Type 2,Average medication. Does what it is supposed to do. I was prescribed Insulin Glargine for diabetes type 2.,4,"July 31, 2017",155,106,18
+3401,Quetiapine,Bipolar Disorder,Very effective treatment. I was prescribed Quetiapine for bipolar disorder.,7,"March 14, 2020",13,75,10
+2068,Propranolol,Migraine,No major complaints but no major improvements either. I was prescribed Propranolol for migraine.,5,"September 21, 2022",94,96,14
+811,Amoxicillin,UTI,It works okay but nothing spectacular. I was prescribed Amoxicillin for uti.,5,"December 06, 2016",70,76,12
+1095,Trimethoprim,UTI,Highly recommend to anyone dealing with this condition. I was prescribed Trimethoprim for uti.,7,"December 27, 2020",184,94,14
+4325,Phentermine,Obesity,No major complaints but no major improvements either. I was prescribed Phentermine for obesity.,4,"June 25, 2021",142,95,14
+4761,Ritalin,ADHD,Made my condition worse. Would not recommend. I was prescribed Ritalin for adhd.,2,"September 21, 2015",164,80,13
+3677,Humira,Arthritis,Been on this for a while. Seems to help somewhat. I was prescribed Humira for arthritis.,6,"May 11, 2022",51,88,16
+3465,Synthroid,Hypothyroidism,No major complaints but no major improvements either. I was prescribed Synthroid for hypothyroidism.,6,"May 03, 2021",99,100,14
+3104,Lisinopril,High Blood Pressure,My doctor recommended this and it really helped. I was prescribed Lisinopril for high blood pressure.,8,"December 11, 2022",142,101,16
+2750,Ibuprofen,Pain,No major complaints but no major improvements either. I was prescribed Ibuprofen for pain.,5,"August 06, 2021",100,90,14
+2296,Amoxicillin,Pneumonia,I noticed improvement within the first week. I was prescribed Amoxicillin for pneumonia.,7,"October 22, 2019",135,88,13
+4193,Levothyroxine,Hypothyroidism,Highly recommend to anyone dealing with this condition. I was prescribed Levothyroxine for hypothyroidism.,9,"August 24, 2020",160,106,14
+3709,Hydroxyzine,Anxiety,Works well with minimal side effects. I was prescribed Hydroxyzine for anxiety.,7,"January 25, 2016",67,79,12
+3019,Quetiapine,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Quetiapine for bipolar disorder.,4,"March 30, 2017",143,99,17
+4253,Bupropion,Depression,No major complaints but no major improvements either. I was prescribed Bupropion for depression.,6,"March 02, 2023",15,96,14
+804,Gabapentin,Pain,Average medication. Does what it is supposed to do. I was prescribed Gabapentin for pain.,4,"August 02, 2018",186,89,15
+4191,Ranitidine,GERD,No major complaints but no major improvements either. I was prescribed Ranitidine for gerd.,6,"November 14, 2022",192,91,14
+3706,Bupropion,Depression,Average medication. Does what it is supposed to do. I was prescribed Bupropion for depression.,6,"May 13, 2018",104,94,15
+752,Alprazolam,Anxiety,Too many side effects. Had to switch medications. I was prescribed Alprazolam for anxiety.,2,"December 27, 2017",136,90,14
+4645,Montelukast,Asthma,Changed my life for the better. Finally feel normal again. I was prescribed Montelukast for asthma.,7,"October 14, 2019",157,99,16
+2532,Loratadine,Allergies,Terrible side effects made me stop taking it. I was prescribed Loratadine for allergies.,3,"April 22, 2020",90,88,14
+622,Doxepin,Insomnia,Highly recommend to anyone dealing with this condition. I was prescribed Doxepin for insomnia.,7,"March 02, 2022",80,94,14
+2298,Fexofenadine,Allergies,Very effective treatment. I was prescribed Fexofenadine for allergies.,9,"March 01, 2016",69,70,9
+3829,Famotidine,GERD,Changed my life for the better. Finally feel normal again. I was prescribed Famotidine for gerd.,8,"November 20, 2021",142,96,16
+567,Vyvanse,ADHD,Caused severe headaches and nausea. I was prescribed Vyvanse for adhd.,1,"July 27, 2016",176,70,11
+1136,Ibuprofen,Pain,Highly recommend to anyone dealing with this condition. I was prescribed Ibuprofen for pain.,8,"April 01, 2015",47,92,14
+1205,Budesonide,Asthma,Been on this for a while. Seems to help somewhat. I was prescribed Budesonide for asthma.,6,"June 14, 2021",129,89,16
+1048,Famotidine,GERD,Made my condition worse. Would not recommend. I was prescribed Famotidine for gerd.,2,"February 15, 2016",54,83,13
+52,Doxepin,Insomnia,Some improvement but still dealing with symptoms. I was prescribed Doxepin for insomnia.,5,"November 05, 2015",113,88,13
+3652,Sertraline,Depression,This medication has been a lifesaver. I was prescribed Sertraline for depression.,7,"October 29, 2017",99,81,12
+1045,Strattera,ADHD,Some improvement but still dealing with symptoms. I was prescribed Strattera for adhd.,5,"February 25, 2019",143,86,13
+2182,Contrave,Obesity,No major complaints but no major improvements either. I was prescribed Contrave for obesity.,5,"June 01, 2021",72,92,14
+2689,Trimethoprim,UTI,I noticed improvement within the first week. I was prescribed Trimethoprim for uti.,7,"February 12, 2023",196,83,13
+535,Diazepam,Anxiety,Some improvement but still dealing with symptoms. I was prescribed Diazepam for anxiety.,4,"October 20, 2022",154,88,13
+3185,Prednisone,Arthritis,It works okay but nothing spectacular. I was prescribed Prednisone for arthritis.,4,"November 15, 2020",65,81,12
+3858,Pantoprazole,GERD,Works well with minimal side effects. I was prescribed Pantoprazole for gerd.,7,"January 04, 2016",24,77,12
+444,Glipizide,Diabetes Type 2,No major complaints but no major improvements either. I was prescribed Glipizide for diabetes type 2.,5,"September 26, 2018",121,101,16
+3605,Amlodipine,High Blood Pressure,Great results overall. I was prescribed Amlodipine for high blood pressure.,7,"September 10, 2019",145,75,11
+196,Prednisone,Arthritis,No major complaints but no major improvements either. I was prescribed Prednisone for arthritis.,6,"July 22, 2020",73,96,14
+1116,Loratadine,Allergies,Some improvement but still dealing with symptoms. I was prescribed Loratadine for allergies.,6,"March 09, 2018",113,92,13
+766,Vyvanse,ADHD,Some improvement but still dealing with symptoms. I was prescribed Vyvanse for adhd.,4,"June 19, 2022",150,84,13
+1946,Omeprazole,GERD,Been on this for a while. Seems to help somewhat. I was prescribed Omeprazole for gerd.,5,"August 02, 2021",48,87,16
+3248,Albuterol,Asthma,Some improvement but still dealing with symptoms. I was prescribed Albuterol for asthma.,4,"January 17, 2022",9,88,13
+3003,Ciprofloxacin,UTI,Average medication. Does what it is supposed to do. I was prescribed Ciprofloxacin for uti.,4,"August 16, 2016",78,91,15
+1433,Propranolol,Migraine,Works well with minimal side effects. I was prescribed Propranolol for migraine.,8,"February 04, 2022",112,80,12
+4201,Fluoxetine,Depression,Some improvement but still dealing with symptoms. I was prescribed Fluoxetine for depression.,6,"April 07, 2019",144,93,13
+3096,Omeprazole,GERD,Great results overall. I was prescribed Omeprazole for gerd.,9,"December 20, 2018",134,60,9
+2923,Diazepam,Anxiety,Some improvement but still dealing with symptoms. I was prescribed Diazepam for anxiety.,5,"May 15, 2017",28,88,13
+645,Ortho Tri-Cyclen,Birth Control,It works okay but nothing spectacular. I was prescribed Ortho Tri-Cyclen for birth control.,5,"May 24, 2021",89,91,14
+1050,Glipizide,Diabetes Type 2,Been taking for months with consistent positive results. I was prescribed Glipizide for diabetes type 2.,9,"February 17, 2022",1,104,16
+3746,Synthroid,Hypothyroidism,Average medication. Does what it is supposed to do. I was prescribed Synthroid for hypothyroidism.,5,"March 23, 2022",57,98,15
+4094,Doxepin,Insomnia,Been on this for a while. Seems to help somewhat. I was prescribed Doxepin for insomnia.,6,"September 10, 2022",119,88,16
+4404,Phentermine,Obesity,Results are hit or miss. Some days are better than others. I was prescribed Phentermine for obesity.,6,"January 23, 2018",139,100,17
+121,Fluticasone,Asthma,Great results overall. I was prescribed Fluticasone for asthma.,7,"September 21, 2015",106,63,9
+2053,Famotidine,GERD,Some improvement but still dealing with symptoms. I was prescribed Famotidine for gerd.,4,"October 17, 2021",63,87,13
+4259,Quetiapine,Bipolar Disorder,Some improvement but still dealing with symptoms. I was prescribed Quetiapine for bipolar disorder.,5,"July 12, 2015",75,99,14
+4889,Atorvastatin,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Atorvastatin for high cholesterol.,6,"April 27, 2020",129,101,17
+4335,Venlafaxine,Depression,Highly recommend to anyone dealing with this condition. I was prescribed Venlafaxine for depression.,7,"July 14, 2015",123,100,14
+4692,Methotrexate,Arthritis,Some improvement but still dealing with symptoms. I was prescribed Methotrexate for arthritis.,6,"July 24, 2017",137,94,13
+135,Omeprazole,GERD,Terrible side effects made me stop taking it. I was prescribed Omeprazole for gerd.,3,"May 08, 2015",63,83,14
+2461,Prednisone,Arthritis,Been on this for a while. Seems to help somewhat. I was prescribed Prednisone for arthritis.,6,"July 12, 2015",100,92,16
+1955,Armour Thyroid,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Armour Thyroid for hypothyroidism.,4,"June 14, 2017",78,110,18
+2464,Amlodipine,High Blood Pressure,Did not work for me at all. Waste of money. I was prescribed Amlodipine for high blood pressure.,2,"August 15, 2018",176,96,18
+185,Acetaminophen,Pain,Some improvement but still dealing with symptoms. I was prescribed Acetaminophen for pain.,5,"October 20, 2015",15,90,13
+1393,Armour Thyroid,Hypothyroidism,Great results overall. I was prescribed Armour Thyroid for hypothyroidism.,10,"June 24, 2021",187,74,10
+2277,Mirena,Birth Control,I noticed improvement within the first week. I was prescribed Mirena for birth control.,7,"April 06, 2022",72,87,14
+512,Omeprazole,GERD,It works okay but nothing spectacular. I was prescribed Omeprazole for gerd.,5,"May 07, 2018",118,76,12
+4730,Methotrexate,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Methotrexate for arthritis.,6,"February 22, 2016",44,103,17
+4055,Montelukast,Allergies,Made my condition worse. Would not recommend. I was prescribed Montelukast for allergies.,3,"January 27, 2015",33,89,13
+3138,Vyvanse,ADHD,Caused severe headaches and nausea. I was prescribed Vyvanse for adhd.,3,"November 28, 2018",199,70,11
+2670,Meloxicam,Arthritis,Great results overall. I was prescribed Meloxicam for arthritis.,7,"June 14, 2021",75,64,9
+4774,Naproxen,Pain,Average medication. Does what it is supposed to do. I was prescribed Naproxen for pain.,6,"May 21, 2022",46,87,15
+4862,Montelukast,Allergies,Caused severe headaches and nausea. I was prescribed Montelukast for allergies.,3,"May 28, 2018",138,79,11
+2118,Humira,Arthritis,Did not work for me at all. Waste of money. I was prescribed Humira for arthritis.,3,"June 04, 2021",94,82,16
+252,Humira,Arthritis,Works well with minimal side effects. I was prescribed Humira for arthritis.,8,"February 15, 2022",118,76,12
+3527,Tretinoin,Acne,Average medication. Does what it is supposed to do. I was prescribed Tretinoin for acne.,5,"August 12, 2015",10,88,15
+3560,Ambien,Insomnia,Not worth the side effects. Very disappointed. I was prescribed Ambien for insomnia.,2,"November 11, 2017",115,84,13
+4012,Ambien,Insomnia,The drowsiness was unbearable. Could not function normally. I was prescribed Ambien for insomnia.,2,"February 03, 2017",136,97,14
+1508,Fluticasone,Asthma,My doctor recommended this and it really helped. I was prescribed Fluticasone for asthma.,8,"November 12, 2015",27,89,14
+123,Glipizide,Diabetes Type 2,Been taking for months with consistent positive results. I was prescribed Glipizide for diabetes type 2.,9,"May 15, 2019",197,104,16
+4260,Budesonide,Asthma,Initially helped but stopped working after a month. I was prescribed Budesonide for asthma.,3,"March 30, 2021",157,91,14
+3334,Metoprolol,High Blood Pressure,I noticed improvement within the first week. I was prescribed Metoprolol for high blood pressure.,7,"September 10, 2016",151,97,15
+1872,Adderall,ADHD,Average medication. Does what it is supposed to do. I was prescribed Adderall for adhd.,5,"January 03, 2016",101,87,15
+3693,Saxenda,Obesity,Great results overall. I was prescribed Saxenda for obesity.,9,"November 17, 2016",48,60,9
+568,Venlafaxine,Depression,The drowsiness was unbearable. Could not function normally. I was prescribed Venlafaxine for depression.,3,"August 08, 2015",25,104,14
+1372,Benzoyl Peroxide,Acne,Changed my life for the better. Finally feel normal again. I was prescribed Benzoyl Peroxide for acne.,10,"January 31, 2015",147,102,17
+3186,Lisinopril,High Blood Pressure,Highly recommend to anyone dealing with this condition. I was prescribed Lisinopril for high blood pressure.,9,"August 31, 2015",174,108,16
+3956,Mirena,Birth Control,It works okay but nothing spectacular. I was prescribed Mirena for birth control.,4,"June 28, 2022",139,81,13
+1057,Amoxicillin,Pneumonia,Been on this for a while. Seems to help somewhat. I was prescribed Amoxicillin for pneumonia.,5,"November 25, 2016",172,93,16
+857,Isotretinoin,Acne,Terrible side effects made me stop taking it. I was prescribed Isotretinoin for acne.,3,"January 20, 2015",115,85,14
+3839,Loratadine,Allergies,Not worth the side effects. Very disappointed. I was prescribed Loratadine for allergies.,3,"May 29, 2021",165,89,13
+2861,Sumatriptan,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Sumatriptan for migraine.,4,"October 14, 2016",88,101,17
+4770,Valproate,Bipolar Disorder,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Valproate for bipolar disorder.,7,"February 27, 2022",134,118,18
+777,Propranolol,Migraine,It works okay but nothing spectacular. I was prescribed Propranolol for migraine.,4,"May 17, 2020",147,81,12
+721,Alprazolam,Anxiety,No major complaints but no major improvements either. I was prescribed Alprazolam for anxiety.,6,"June 04, 2019",19,94,14
+2711,Doxepin,Insomnia,Not worth the side effects. Very disappointed. I was prescribed Doxepin for insomnia.,3,"July 15, 2022",198,85,13
+2655,Ambien,Insomnia,No major complaints but no major improvements either. I was prescribed Ambien for insomnia.,4,"December 18, 2018",138,91,14
+4878,Metformin,Diabetes Type 2,Very effective treatment. I was prescribed Metformin for diabetes type 2.,7,"June 17, 2018",153,73,11
+603,Azithromycin,Pneumonia,Works well with minimal side effects. I was prescribed Azithromycin for pneumonia.,8,"October 13, 2017",168,82,12
+3823,Rizatriptan,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Rizatriptan for migraine.,5,"September 06, 2016",103,92,16
+1245,Adderall,ADHD,Some improvement but still dealing with symptoms. I was prescribed Adderall for adhd.,4,"July 24, 2018",37,85,13
+4846,Melatonin,Insomnia,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Melatonin for insomnia.,7,"January 26, 2021",170,110,17
+4842,Yaz,Birth Control,No major complaints but no major improvements either. I was prescribed Yaz for birth control.,6,"November 13, 2018",184,93,15
+319,Orlistat,Obesity,Average medication. Does what it is supposed to do. I was prescribed Orlistat for obesity.,6,"December 09, 2018",186,90,15
+829,Doxycycline,Acne,Some improvement but still dealing with symptoms. I was prescribed Doxycycline for acne.,4,"April 05, 2022",57,88,13
+3264,Simvastatin,High Cholesterol,My doctor recommended this and it really helped. I was prescribed Simvastatin for high cholesterol.,8,"May 24, 2017",100,99,15
+275,Escitalopram,Depression,Gained significant weight while on this medication. I was prescribed Escitalopram for depression.,3,"August 30, 2016",16,97,13
+2665,Contrave,Obesity,Great results overall. I was prescribed Contrave for obesity.,7,"April 01, 2019",149,61,9
+550,Synthroid,Hypothyroidism,It works okay but nothing spectacular. I was prescribed Synthroid for hypothyroidism.,4,"December 05, 2021",163,85,12
+3642,Fexofenadine,Allergies,No major complaints but no major improvements either. I was prescribed Fexofenadine for allergies.,5,"November 30, 2022",102,98,14
+4054,Ezetimibe,High Cholesterol,No major complaints but no major improvements either. I was prescribed Ezetimibe for high cholesterol.,6,"December 12, 2019",184,102,15
+4893,Methotrexate,Arthritis,Average medication. Does what it is supposed to do. I was prescribed Methotrexate for arthritis.,4,"January 13, 2017",31,96,15
+2935,Atorvastatin,High Cholesterol,Very effective treatment. I was prescribed Atorvastatin for high cholesterol.,8,"November 02, 2021",63,77,10
+606,Hydroxyzine,Anxiety,Great results overall. I was prescribed Hydroxyzine for anxiety.,10,"September 22, 2020",191,64,9
+897,Amoxicillin,UTI,Some improvement but still dealing with symptoms. I was prescribed Amoxicillin for uti.,5,"November 08, 2021",97,87,13
+528,Tramadol,Pain,It works okay but nothing spectacular. I was prescribed Tramadol for pain.,6,"April 22, 2021",105,74,12
+4608,Valproate,Bipolar Disorder,Very effective treatment. I was prescribed Valproate for bipolar disorder.,7,"May 01, 2019",16,74,10
+2348,Fluticasone,Asthma,Too many side effects. Had to switch medications. I was prescribed Fluticasone for asthma.,3,"November 05, 2021",155,90,14
+3440,Ritalin,ADHD,No major complaints but no major improvements either. I was prescribed Ritalin for adhd.,6,"July 17, 2017",175,88,14
+4999,Budesonide,Asthma,Works well with minimal side effects. I was prescribed Budesonide for asthma.,8,"September 17, 2022",97,77,12
+4827,Diazepam,Anxiety,Results are hit or miss. Some days are better than others. I was prescribed Diazepam for anxiety.,6,"September 20, 2017",73,97,17
+3923,Atorvastatin,High Cholesterol,Some improvement but still dealing with symptoms. I was prescribed Atorvastatin for high cholesterol.,5,"March 03, 2015",143,101,14
+299,Lithium,Bipolar Disorder,This medication has been a lifesaver. I was prescribed Lithium for bipolar disorder.,8,"September 29, 2016",40,84,13
+2120,Losartan,High Blood Pressure,It works okay but nothing spectacular. I was prescribed Losartan for high blood pressure.,5,"August 13, 2021",137,89,14
+2537,Ritalin,ADHD,My doctor recommended this and it really helped. I was prescribed Ritalin for adhd.,8,"June 03, 2018",21,83,14
+4204,Quetiapine,Bipolar Disorder,Made my condition worse. Would not recommend. I was prescribed Quetiapine for bipolar disorder.,3,"September 23, 2021",171,95,14
+3255,Benzoyl Peroxide,Acne,Average medication. Does what it is supposed to do. I was prescribed Benzoyl Peroxide for acne.,6,"October 18, 2016",94,95,16
+3726,Tramadol,Pain,Changed my life for the better. Finally feel normal again. I was prescribed Tramadol for pain.,7,"August 13, 2019",148,94,16
+1261,Albuterol,Asthma,Highly recommend to anyone dealing with this condition. I was prescribed Albuterol for asthma.,7,"May 06, 2019",132,94,14
+1559,Acetaminophen,Pain,I noticed improvement within the first week. I was prescribed Acetaminophen for pain.,9,"August 05, 2015",69,85,13
+3270,Melatonin,Insomnia,Been taking for months with consistent positive results. I was prescribed Melatonin for insomnia.,7,"June 13, 2021",200,97,14
+4047,Fluoxetine,Depression,I noticed improvement within the first week. I was prescribed Fluoxetine for depression.,7,"March 17, 2022",29,88,13
+757,Loratadine,Allergies,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Loratadine for allergies.,7,"June 05, 2015",23,112,17
+1011,Ritalin,ADHD,Been taking for months with consistent positive results. I was prescribed Ritalin for adhd.,9,"May 01, 2022",96,91,14
+2795,Sertraline,Depression,Some improvement but still dealing with symptoms. I was prescribed Sertraline for depression.,5,"September 26, 2020",112,93,13
+2906,Ambien,Insomnia,Been taking for months with consistent positive results. I was prescribed Ambien for insomnia.,7,"April 28, 2017",4,94,14
+1871,Contrave,Obesity,Terrible side effects made me stop taking it. I was prescribed Contrave for obesity.,3,"October 23, 2016",189,84,14
+2230,Famotidine,GERD,Great results overall. I was prescribed Famotidine for gerd.,8,"April 25, 2020",180,60,9
+1174,Levofloxacin,Pneumonia,It works okay but nothing spectacular. I was prescribed Levofloxacin for pneumonia.,5,"February 09, 2019",56,83,12
+1833,Valproate,Bipolar Disorder,This medication has been a lifesaver. I was prescribed Valproate for bipolar disorder.,8,"June 03, 2018",72,86,13
+377,Vyvanse,ADHD,I noticed improvement within the first week. I was prescribed Vyvanse for adhd.,8,"September 05, 2022",118,79,13
+3854,Methotrexate,Arthritis,Initially helped but stopped working after a month. I was prescribed Methotrexate for arthritis.,3,"September 14, 2022",163,96,14
+3617,Januvia,Diabetes Type 2,Initially helped but stopped working after a month. I was prescribed Januvia for diabetes type 2.,3,"March 12, 2016",37,97,16
+799,Trimethoprim,UTI,Results are hit or miss. Some days are better than others. I was prescribed Trimethoprim for uti.,6,"May 09, 2018",20,97,17
+379,Levothyroxine,Hypothyroidism,My doctor recommended this and it really helped. I was prescribed Levothyroxine for hypothyroidism.,10,"April 05, 2017",11,99,14
+1159,Montelukast,Asthma,I noticed improvement within the first week. I was prescribed Montelukast for asthma.,8,"October 23, 2017",10,85,13
+3820,Ezetimibe,High Cholesterol,Terrible side effects made me stop taking it. I was prescribed Ezetimibe for high cholesterol.,3,"June 30, 2015",153,94,15
+2793,Pantoprazole,GERD,It works okay but nothing spectacular. I was prescribed Pantoprazole for gerd.,4,"November 23, 2021",37,78,12
+2241,Azithromycin,Pneumonia,Results are hit or miss. Some days are better than others. I was prescribed Azithromycin for pneumonia.,6,"January 27, 2017",64,103,17
+4036,Ranitidine,GERD,Been taking for months with consistent positive results. I was prescribed Ranitidine for gerd.,8,"October 28, 2016",35,94,14
+2663,Loratadine,Allergies,Changed my life for the better. Finally feel normal again. I was prescribed Loratadine for allergies.,7,"April 15, 2015",27,101,16
+4013,Prednisone,Arthritis,Made my condition worse. Would not recommend. I was prescribed Prednisone for arthritis.,3,"November 07, 2018",99,88,13
+2958,Cetirizine,Allergies,Some improvement but still dealing with symptoms. I was prescribed Cetirizine for allergies.,5,"February 28, 2019",144,92,13
+3928,Quetiapine,Bipolar Disorder,Highly recommend to anyone dealing with this condition. I was prescribed Quetiapine for bipolar disorder.,7,"January 18, 2018",160,105,15
+1039,Strattera,ADHD,Average medication. Does what it is supposed to do. I was prescribed Strattera for adhd.,6,"February 13, 2017",1,88,15
+3260,Synthroid,Hypothyroidism,Very effective treatment. I was prescribed Synthroid for hypothyroidism.,9,"August 28, 2018",170,72,9
+1345,Pantoprazole,GERD,Highly recommend to anyone dealing with this condition. I was prescribed Pantoprazole for gerd.,8,"October 13, 2016",123,95,14
+2506,Losartan,High Blood Pressure,My doctor took me off this due to adverse reactions. I was prescribed Losartan for high blood pressure.,3,"July 16, 2021",0,103,18
+1722,Diazepam,Anxiety,Average medication. Does what it is supposed to do. I was prescribed Diazepam for anxiety.,5,"August 15, 2021",27,90,15
+4664,Buspirone,Anxiety,Been on this for a while. Seems to help somewhat. I was prescribed Buspirone for anxiety.,4,"December 30, 2019",33,89,16
+176,Synthroid,Hypothyroidism,Changed my life for the better. Finally feel normal again. I was prescribed Synthroid for hypothyroidism.,8,"October 23, 2019",78,105,16
+4894,Synthroid,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Synthroid for hypothyroidism.,5,"August 31, 2018",169,105,17
+1910,Montelukast,Allergies,It works okay but nothing spectacular. I was prescribed Montelukast for allergies.,6,"February 22, 2016",173,82,12
+46,Valproate,Bipolar Disorder,Some improvement but still dealing with symptoms. I was prescribed Valproate for bipolar disorder.,4,"April 21, 2020",104,98,14
+3410,Lamotrigine,Bipolar Disorder,Works well with minimal side effects. I was prescribed Lamotrigine for bipolar disorder.,10,"August 08, 2015",94,88,13
+4675,Propranolol,Migraine,Great results overall. I was prescribed Propranolol for migraine.,8,"September 16, 2018",149,65,9
+1076,Trimethoprim,UTI,Some improvement but still dealing with symptoms. I was prescribed Trimethoprim for uti.,4,"September 18, 2017",67,88,13
+2830,Montelukast,Asthma,Some improvement but still dealing with symptoms. I was prescribed Montelukast for asthma.,5,"February 16, 2018",35,90,13
+1505,Phentermine,Obesity,Results are hit or miss. Some days are better than others. I was prescribed Phentermine for obesity.,5,"December 17, 2022",136,100,17
+2310,Amlodipine,High Blood Pressure,This medication has been a lifesaver. I was prescribed Amlodipine for high blood pressure.,8,"January 24, 2019",142,90,14
+1437,Lisinopril,High Blood Pressure,Average medication. Does what it is supposed to do. I was prescribed Lisinopril for high blood pressure.,5,"August 18, 2015",86,104,17
+2419,Alprazolam,Anxiety,Average medication. Does what it is supposed to do. I was prescribed Alprazolam for anxiety.,6,"December 09, 2017",46,92,15
+3987,Famotidine,GERD,Changed my life for the better. Finally feel normal again. I was prescribed Famotidine for gerd.,7,"January 14, 2023",177,96,16
+3099,Orlistat,Obesity,Average medication. Does what it is supposed to do. I was prescribed Orlistat for obesity.,5,"October 12, 2016",25,90,15
+4589,Topiramate,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Topiramate for migraine.,4,"August 08, 2022",143,91,16
+284,Sertraline,Depression,Did not work for me at all. Waste of money. I was prescribed Sertraline for depression.,2,"January 17, 2016",110,87,16
+4919,Melatonin,Insomnia,Been taking for months with consistent positive results. I was prescribed Melatonin for insomnia.,9,"July 26, 2020",194,97,14
+843,Fexofenadine,Allergies,Caused severe headaches and nausea. I was prescribed Fexofenadine for allergies.,3,"July 16, 2019",99,80,11
+1514,Ranitidine,GERD,Caused severe headaches and nausea. I was prescribed Ranitidine for gerd.,1,"June 28, 2021",87,73,11
+1169,Trimethoprim,UTI,Changed my life for the better. Finally feel normal again. I was prescribed Trimethoprim for uti.,7,"March 05, 2018",82,97,16
+1593,Diazepam,Anxiety,My doctor recommended this and it really helped. I was prescribed Diazepam for anxiety.,7,"February 15, 2020",153,87,14
+3461,Doxycycline,Pneumonia,This medication has been a lifesaver. I was prescribed Doxycycline for pneumonia.,10,"August 15, 2018",79,81,12
+3166,Strattera,ADHD,Not worth the side effects. Very disappointed. I was prescribed Strattera for adhd.,1,"April 17, 2022",14,83,13
+2285,Vyvanse,ADHD,No major complaints but no major improvements either. I was prescribed Vyvanse for adhd.,4,"December 15, 2015",51,88,14
+3576,Losartan,High Blood Pressure,Results are hit or miss. Some days are better than others. I was prescribed Losartan for high blood pressure.,6,"December 06, 2020",125,109,19
+4871,Liothyronine,Hypothyroidism,I noticed improvement within the first week. I was prescribed Liothyronine for hypothyroidism.,10,"October 10, 2019",197,94,13
+2306,Budesonide,Asthma,Highly recommend to anyone dealing with this condition. I was prescribed Budesonide for asthma.,10,"July 29, 2020",137,95,14
+953,Pantoprazole,GERD,Not worth the side effects. Very disappointed. I was prescribed Pantoprazole for gerd.,2,"October 07, 2015",129,86,13
+4943,Propranolol,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Propranolol for migraine.,6,"October 01, 2017",53,92,16
+3054,Ciprofloxacin,UTI,Been on this for a while. Seems to help somewhat. I was prescribed Ciprofloxacin for uti.,4,"April 03, 2016",116,89,16
+4560,Nitrofurantoin,UTI,Works well with minimal side effects. I was prescribed Nitrofurantoin for uti.,7,"July 29, 2020",49,78,12
+2686,Meloxicam,Arthritis,Been on this for a while. Seems to help somewhat. I was prescribed Meloxicam for arthritis.,6,"October 29, 2021",157,91,16
+1490,Omeprazole,GERD,This medication has been a lifesaver. I was prescribed Omeprazole for gerd.,9,"May 19, 2020",171,75,12
+928,Amoxicillin,Pneumonia,Average medication. Does what it is supposed to do. I was prescribed Amoxicillin for pneumonia.,6,"June 18, 2019",87,95,15
+1210,Naproxen,Pain,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Naproxen for pain.,10,"April 09, 2021",50,105,17
+3974,Trimethoprim,UTI,Results are hit or miss. Some days are better than others. I was prescribed Trimethoprim for uti.,6,"October 23, 2020",199,97,17
+3546,Metoprolol,High Blood Pressure,Been on this for a while. Seems to help somewhat. I was prescribed Metoprolol for high blood pressure.,6,"November 26, 2021",99,102,18
+4362,Contrave,Obesity,Did not work for me at all. Waste of money. I was prescribed Contrave for obesity.,3,"March 01, 2020",124,82,16
+1922,Naproxen,Pain,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Naproxen for pain.,7,"June 18, 2018",154,105,17
+352,Ritalin,ADHD,My doctor recommended this and it really helped. I was prescribed Ritalin for adhd.,9,"April 05, 2020",49,83,14
+4899,Bupropion,Depression,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Bupropion for depression.,7,"April 01, 2019",41,112,17
+3394,Trazodone,Insomnia,Been on this for a while. Seems to help somewhat. I was prescribed Trazodone for insomnia.,5,"May 10, 2019",40,90,16
+2722,Propranolol,Migraine,Been on this for a while. Seems to help somewhat. I was prescribed Propranolol for migraine.,4,"May 14, 2022",46,92,16
+4982,Mirena,Birth Control,This medication has been a lifesaver. I was prescribed Mirena for birth control.,8,"February 02, 2017",139,80,13
+719,Ambien,Insomnia,It works okay but nothing spectacular. I was prescribed Ambien for insomnia.,5,"August 06, 2017",133,76,12
+2703,Tretinoin,Acne,Changed my life for the better. Finally feel normal again. I was prescribed Tretinoin for acne.,10,"June 12, 2015",138,95,16
+2723,Loratadine,Allergies,Initially helped but stopped working after a month. I was prescribed Loratadine for allergies.,3,"June 29, 2022",124,94,14
+4562,Naproxen,Pain,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Naproxen for pain.,10,"March 10, 2020",115,105,17
+309,Tramadol,Pain,Highly recommend to anyone dealing with this condition. I was prescribed Tramadol for pain.,7,"November 22, 2022",58,91,14
+1676,Ambien,Insomnia,Average medication. Does what it is supposed to do. I was prescribed Ambien for insomnia.,5,"September 20, 2019",154,89,15
+834,Synthroid,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Synthroid for hypothyroidism.,4,"March 26, 2020",77,96,13
+367,Cetirizine,Allergies,It works okay but nothing spectacular. I was prescribed Cetirizine for allergies.,6,"September 03, 2017",107,81,12
+4507,Vyvanse,ADHD,Works well with minimal side effects. I was prescribed Vyvanse for adhd.,7,"December 14, 2021",99,72,12
+2079,Mirena,Birth Control,No major complaints but no major improvements either. I was prescribed Mirena for birth control.,5,"June 15, 2018",1,96,15
+4039,Trazodone,Insomnia,Some improvement but still dealing with symptoms. I was prescribed Trazodone for insomnia.,5,"July 20, 2016",126,90,13
+4847,Montelukast,Allergies,My doctor took me off this due to adverse reactions. I was prescribed Montelukast for allergies.,1,"May 21, 2021",13,96,16
+4480,Januvia,Diabetes Type 2,Great results overall. I was prescribed Januvia for diabetes type 2.,8,"May 14, 2020",136,68,11
+1747,Armour Thyroid,Hypothyroidism,I noticed improvement within the first week. I was prescribed Armour Thyroid for hypothyroidism.,8,"May 29, 2019",11,96,14
+20,Januvia,Diabetes Type 2,Caused severe headaches and nausea. I was prescribed Januvia for diabetes type 2.,2,"January 01, 2018",16,81,13
+1323,Loratadine,Allergies,Average medication. Does what it is supposed to do. I was prescribed Loratadine for allergies.,5,"April 01, 2017",49,94,15
+3568,Topiramate,Migraine,I noticed improvement within the first week. I was prescribed Topiramate for migraine.,8,"December 25, 2020",47,86,13
+2522,Synthroid,Hypothyroidism,My doctor recommended this and it really helped. I was prescribed Synthroid for hypothyroidism.,10,"March 27, 2016",2,95,14
+219,Saxenda,Obesity,It works okay but nothing spectacular. I was prescribed Saxenda for obesity.,4,"February 07, 2023",36,76,12
+1488,Venlafaxine,Depression,Terrible side effects made me stop taking it. I was prescribed Venlafaxine for depression.,1,"October 10, 2022",187,90,14
+439,Bupropion,Depression,Not worth the side effects. Very disappointed. I was prescribed Bupropion for depression.,1,"January 19, 2020",195,89,13
+4175,Ambien,Insomnia,Been on this for a while. Seems to help somewhat. I was prescribed Ambien for insomnia.,5,"May 04, 2018",165,87,16
+2751,NuvaRing,Birth Control,Very effective treatment. I was prescribed NuvaRing for birth control.,10,"October 08, 2019",131,70,10
+3289,Meloxicam,Arthritis,No major complaints but no major improvements either. I was prescribed Meloxicam for arthritis.,4,"December 07, 2015",90,95,14
+3434,Liothyronine,Hypothyroidism,Been on this for a while. Seems to help somewhat. I was prescribed Liothyronine for hypothyroidism.,5,"August 18, 2022",42,99,16
+2526,Cetirizine,Allergies,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Cetirizine for allergies.,7,"June 17, 2015",55,112,17
+4651,Liothyronine,Hypothyroidism,No major complaints but no major improvements either. I was prescribed Liothyronine for hypothyroidism.,5,"April 25, 2017",109,103,14
+3689,Ambien,Insomnia,Changed my life for the better. Finally feel normal again. I was prescribed Ambien for insomnia.,9,"December 20, 2015",16,96,16
+2764,Omeprazole,GERD,Results are hit or miss. Some days are better than others. I was prescribed Omeprazole for gerd.,4,"October 29, 2017",105,96,17
+803,Atorvastatin,High Cholesterol,No major complaints but no major improvements either. I was prescribed Atorvastatin for high cholesterol.,6,"November 19, 2019",51,105,15
+2998,Prednisone,Arthritis,Did not work for me at all. Waste of money. I was prescribed Prednisone for arthritis.,2,"September 05, 2022",76,86,16
+2229,Ranitidine,GERD,Did not work for me at all. Waste of money. I was prescribed Ranitidine for gerd.,1,"December 15, 2017",179,81,16
+4786,Ortho Tri-Cyclen,Birth Control,Been on this for a while. Seems to help somewhat. I was prescribed Ortho Tri-Cyclen for birth control.,5,"October 10, 2018",49,102,18
+2078,Hydroxyzine,Anxiety,I noticed improvement within the first week. I was prescribed Hydroxyzine for anxiety.,9,"January 06, 2018",191,86,13
+583,Lamotrigine,Bipolar Disorder,Been taking for months with consistent positive results. I was prescribed Lamotrigine for bipolar disorder.,7,"November 25, 2016",35,107,15
+204,Isotretinoin,Acne,Highly recommend to anyone dealing with this condition. I was prescribed Isotretinoin for acne.,8,"February 26, 2015",141,95,14
+4347,Quetiapine,Bipolar Disorder,Been on this for a while. Seems to help somewhat. I was prescribed Quetiapine for bipolar disorder.,5,"April 06, 2020",10,99,17
+3479,Sertraline,Depression,Works well with minimal side effects. I was prescribed Sertraline for depression.,8,"December 12, 2017",170,81,12
+2930,Montelukast,Asthma,This medication has been a lifesaver. I was prescribed Montelukast for asthma.,8,"December 21, 2020",85,78,12
+3086,Armour Thyroid,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Armour Thyroid for hypothyroidism.,6,"December 19, 2021",67,110,18
+1019,Trimethoprim,UTI,Been on this for a while. Seems to help somewhat. I was prescribed Trimethoprim for uti.,5,"October 22, 2016",165,88,16
+1584,Omeprazole,GERD,It works okay but nothing spectacular. I was prescribed Omeprazole for gerd.,6,"June 26, 2021",195,76,12
+1033,Buspirone,Anxiety,Results are hit or miss. Some days are better than others. I was prescribed Buspirone for anxiety.,6,"May 24, 2022",33,98,17
+1719,Lamotrigine,Bipolar Disorder,Changed my life for the better. Finally feel normal again. I was prescribed Lamotrigine for bipolar disorder.,7,"January 17, 2015",134,109,17
+1282,Januvia,Diabetes Type 2,It works okay but nothing spectacular. I was prescribed Januvia for diabetes type 2.,5,"August 18, 2016",8,84,14
+2499,NuvaRing,Birth Control,My doctor recommended this and it really helped. I was prescribed NuvaRing for birth control.,7,"December 01, 2022",152,93,15
+3351,Humira,Arthritis,No major complaints but no major improvements either. I was prescribed Humira for arthritis.,4,"August 25, 2021",156,92,14
+518,Glipizide,Diabetes Type 2,Terrible side effects made me stop taking it. I was prescribed Glipizide for diabetes type 2.,3,"July 06, 2019",112,93,16
+1748,Bupropion,Depression,My doctor recommended this and it really helped. I was prescribed Bupropion for depression.,7,"July 09, 2018",150,91,14
+4653,Fexofenadine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Fexofenadine for allergies.,6,"May 31, 2019",89,94,16
+3733,Bupropion,Depression,Made my condition worse. Would not recommend. I was prescribed Bupropion for depression.,1,"June 12, 2017",70,88,13
+669,Levothyroxine,Hypothyroidism,Terrible side effects made me stop taking it. I was prescribed Levothyroxine for hypothyroidism.,1,"October 20, 2022",87,96,14
+4060,Losartan,High Blood Pressure,Been on this for a while. Seems to help somewhat. I was prescribed Losartan for high blood pressure.,5,"January 15, 2016",15,100,18
+3027,Ezetimibe,High Cholesterol,Results are hit or miss. Some days are better than others. I was prescribed Ezetimibe for high cholesterol.,6,"July 16, 2015",135,107,18
+4933,Omeprazole,GERD,This medication has been a lifesaver. I was prescribed Omeprazole for gerd.,9,"October 15, 2017",136,75,12
+3287,Fluoxetine,Depression,Some improvement but still dealing with symptoms. I was prescribed Fluoxetine for depression.,5,"December 31, 2021",76,93,13
+2651,Pantoprazole,GERD,Made my condition worse. Would not recommend. I was prescribed Pantoprazole for gerd.,3,"December 06, 2021",167,85,13
+4454,Vyvanse,ADHD,Some improvement but still dealing with symptoms. I was prescribed Vyvanse for adhd.,6,"July 12, 2021",15,84,13
+3193,Doxycycline,Acne,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Doxycycline for acne.,10,"May 05, 2015",159,108,17
+2125,Famotidine,GERD,No major complaints but no major improvements either. I was prescribed Famotidine for gerd.,6,"February 10, 2020",37,91,14
+3376,Lithium,Bipolar Disorder,Not worth the side effects. Very disappointed. I was prescribed Lithium for bipolar disorder.,3,"August 17, 2015",185,93,14
+3393,Adderall,ADHD,No major complaints but no major improvements either. I was prescribed Adderall for adhd.,5,"December 25, 2021",72,89,14
+3486,Loratadine,Allergies,No major complaints but no major improvements either. I was prescribed Loratadine for allergies.,4,"November 13, 2022",100,96,14
+760,Ortho Tri-Cyclen,Birth Control,Very effective treatment. I was prescribed Ortho Tri-Cyclen for birth control.,7,"January 15, 2023",45,78,11
+3380,Bupropion,Depression,Average medication. Does what it is supposed to do. I was prescribed Bupropion for depression.,4,"October 12, 2015",126,94,15
+4441,Januvia,Diabetes Type 2,Caused severe headaches and nausea. I was prescribed Januvia for diabetes type 2.,2,"October 17, 2015",8,81,13
+2527,Cetirizine,Allergies,This medication has been a lifesaver. I was prescribed Cetirizine for allergies.,7,"June 23, 2020",78,80,12
+4859,Doxycycline,Acne,Some improvement but still dealing with symptoms. I was prescribed Doxycycline for acne.,6,"May 26, 2016",155,88,13
+908,Strattera,ADHD,Been taking for months with consistent positive results. I was prescribed Strattera for adhd.,7,"August 20, 2017",20,93,14
+2684,Saxenda,Obesity,Been taking for months with consistent positive results. I was prescribed Saxenda for obesity.,7,"December 22, 2018",32,94,14
+215,Valproate,Bipolar Disorder,Some improvement but still dealing with symptoms. I was prescribed Valproate for bipolar disorder.,5,"August 10, 2019",11,98,14
+3332,Tramadol,Pain,Caused severe headaches and nausea. I was prescribed Tramadol for pain.,2,"April 11, 2015",35,71,11
+4459,Strattera,ADHD,Not worth the side effects. Very disappointed. I was prescribed Strattera for adhd.,2,"November 03, 2017",62,83,13
+694,Omeprazole,GERD,Great results overall. I was prescribed Omeprazole for gerd.,7,"December 20, 2015",111,60,9
+1504,Rizatriptan,Migraine,Results are hit or miss. Some days are better than others. I was prescribed Rizatriptan for migraine.,5,"June 14, 2020",128,101,17
+2415,Ranitidine,GERD,Great results overall. I was prescribed Ranitidine for gerd.,8,"January 02, 2021",62,60,9
+2119,Acetaminophen,Pain,Caused severe headaches and nausea. I was prescribed Acetaminophen for pain.,1,"June 21, 2021",188,76,11
+3859,Doxycycline,Pneumonia,Been on this for a while. Seems to help somewhat. I was prescribed Doxycycline for pneumonia.,4,"March 25, 2020",184,93,16
+2463,Sumatriptan,Migraine,This medication has been a lifesaver. I was prescribed Sumatriptan for migraine.,7,"July 06, 2017",12,80,12
+3636,Nitrofurantoin,UTI,Average medication. Does what it is supposed to do. I was prescribed Nitrofurantoin for uti.,6,"August 27, 2021",74,92,15
+4106,Nitrofurantoin,UTI,Some improvement but still dealing with symptoms. I was prescribed Nitrofurantoin for uti.,6,"September 14, 2022",151,90,13
+4479,Diazepam,Anxiety,Not worth the side effects. Very disappointed. I was prescribed Diazepam for anxiety.,2,"October 17, 2020",11,85,13
+197,Albuterol,Asthma,My doctor took me off this due to adverse reactions. I was prescribed Albuterol for asthma.,3,"December 27, 2015",80,91,16
+4668,Simvastatin,High Cholesterol,Very effective treatment. I was prescribed Simvastatin for high cholesterol.,10,"April 19, 2020",149,76,10
+1544,Contrave,Obesity,It works okay but nothing spectacular. I was prescribed Contrave for obesity.,4,"August 16, 2021",193,77,12
+1331,Ibuprofen,Pain,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Ibuprofen for pain.,9,"July 29, 2022",12,106,17
+880,Azithromycin,Pneumonia,My doctor recommended this and it really helped. I was prescribed Azithromycin for pneumonia.,8,"April 11, 2016",200,93,14
+4503,Amlodipine,High Blood Pressure,Gained significant weight while on this medication. I was prescribed Amlodipine for high blood pressure.,2,"January 03, 2016",106,104,15
+3502,Atorvastatin,High Cholesterol,Been on this for a while. Seems to help somewhat. I was prescribed Atorvastatin for high cholesterol.,4,"December 14, 2015",180,101,17
+3895,Cetirizine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Cetirizine for allergies.,5,"January 07, 2020",199,92,16
+4991,Levofloxacin,Pneumonia,Did not work for me at all. Waste of money. I was prescribed Levofloxacin for pneumonia.,1,"February 11, 2022",36,88,16
+888,Doxepin,Insomnia,It works okay but nothing spectacular. I was prescribed Doxepin for insomnia.,5,"February 13, 2016",44,77,12
+1346,Albuterol,Asthma,The drowsiness was unbearable. Could not function normally. I was prescribed Albuterol for asthma.,2,"May 02, 2017",177,98,14
+69,Contrave,Obesity,Some improvement but still dealing with symptoms. I was prescribed Contrave for obesity.,6,"November 30, 2018",17,88,13
+4211,Ritalin,ADHD,Average medication. Does what it is supposed to do. I was prescribed Ritalin for adhd.,5,"February 08, 2023",96,86,15
+1816,Lamotrigine,Bipolar Disorder,The drowsiness was unbearable. Could not function normally. I was prescribed Lamotrigine for bipolar disorder.,3,"May 10, 2018",72,110,15
+569,Rosuvastatin,High Cholesterol,Did not work for me at all. Waste of money. I was prescribed Rosuvastatin for high cholesterol.,1,"October 27, 2018",154,95,17
+2168,Amoxicillin,Pneumonia,Gained significant weight while on this medication. I was prescribed Amoxicillin for pneumonia.,2,"January 10, 2019",71,95,13
+97,NuvaRing,Birth Control,Results are hit or miss. Some days are better than others. I was prescribed NuvaRing for birth control.,6,"October 14, 2015",170,103,18
+4182,Pantoprazole,GERD,Some improvement but still dealing with symptoms. I was prescribed Pantoprazole for gerd.,4,"August 13, 2018",111,89,13
+3354,Gabapentin,Pain,Average medication. Does what it is supposed to do. I was prescribed Gabapentin for pain.,6,"November 30, 2015",135,89,15
+140,Alprazolam,Anxiety,Initially helped but stopped working after a month. I was prescribed Alprazolam for anxiety.,2,"March 18, 2016",148,92,14
+4955,Loratadine,Allergies,Been on this for a while. Seems to help somewhat. I was prescribed Loratadine for allergies.,6,"December 03, 2015",96,92,16
+2603,Lithium,Bipolar Disorder,Average medication. Does what it is supposed to do. I was prescribed Lithium for bipolar disorder.,4,"October 17, 2015",106,98,16
+4024,Lamotrigine,Bipolar Disorder,My doctor recommended this and it really helped. I was prescribed Lamotrigine for bipolar disorder.,7,"June 04, 2015",22,99,15
+4773,Cetirizine,Allergies,Changed my life for the better. Finally feel normal again. I was prescribed Cetirizine for allergies.,7,"November 19, 2019",185,101,16
+1607,Metformin,Diabetes Type 2,Results are hit or miss. Some days are better than others. I was prescribed Metformin for diabetes type 2.,6,"August 09, 2022",6,106,19
+1630,Lithium,Bipolar Disorder,Very effective treatment. I was prescribed Lithium for bipolar disorder.,8,"March 28, 2019",146,72,10
+1540,Adderall,ADHD,Too many side effects. Had to switch medications. I was prescribed Adderall for adhd.,1,"March 01, 2023",113,85,14
+1695,Losartan,High Blood Pressure,Average medication. Does what it is supposed to do. I was prescribed Losartan for high blood pressure.,6,"August 22, 2017",158,102,17
+2060,Doxepin,Insomnia,Results are hit or miss. Some days are better than others. I was prescribed Doxepin for insomnia.,6,"June 06, 2018",116,97,17
+464,Trazodone,Insomnia,It works okay but nothing spectacular. I was prescribed Trazodone for insomnia.,6,"June 06, 2021",173,79,12
+2331,Rosuvastatin,High Cholesterol,Average medication. Does what it is supposed to do. I was prescribed Rosuvastatin for high cholesterol.,5,"March 20, 2016",26,103,16
+3044,Escitalopram,Depression,Average medication. Does what it is supposed to do. I was prescribed Escitalopram for depression.,6,"July 31, 2017",168,97,15
+4735,Montelukast,Asthma,No major complaints but no major improvements either. I was prescribed Montelukast for asthma.,6,"December 03, 2017",151,94,14
+595,Sumatriptan,Migraine,Changed my life for the better. Finally feel normal again. I was prescribed Sumatriptan for migraine.,8,"March 29, 2017",151,101,16
+3815,Fexofenadine,Allergies,Made my condition worse. Would not recommend. I was prescribed Fexofenadine for allergies.,2,"December 15, 2015",139,90,13
+626,Acetaminophen,Pain,It works okay but nothing spectacular. I was prescribed Acetaminophen for pain.,4,"September 04, 2017",78,79,12
+451,Melatonin,Insomnia,No major complaints but no major improvements either. I was prescribed Melatonin for insomnia.,5,"July 30, 2015",149,94,14
+1500,Ritalin,ADHD,I noticed improvement within the first week. I was prescribed Ritalin for adhd.,7,"October 03, 2018",61,79,13
+2457,Albuterol,Asthma,Been on this for a while. Seems to help somewhat. I was prescribed Albuterol for asthma.,4,"November 30, 2020",10,88,16
+4723,Mirena,Birth Control,Been on this for a while. Seems to help somewhat. I was prescribed Mirena for birth control.,6,"November 09, 2015",47,92,17
+2985,Alprazolam,Anxiety,Gained significant weight while on this medication. I was prescribed Alprazolam for anxiety.,1,"June 18, 2020",76,92,13
+1570,Alprazolam,Anxiety,It works okay but nothing spectacular. I was prescribed Alprazolam for anxiety.,4,"May 18, 2020",89,79,12
+1035,Sumatriptan,Migraine,No major complaints but no major improvements either. I was prescribed Sumatriptan for migraine.,4,"December 10, 2020",109,96,14
+3519,Budesonide,Asthma,My doctor recommended this and it really helped. I was prescribed Budesonide for asthma.,9,"May 16, 2021",117,88,14
+1558,Glipizide,Diabetes Type 2,The drowsiness was unbearable. Could not function normally. I was prescribed Glipizide for diabetes type 2.,3,"March 03, 2020",177,107,16
+3625,Famotidine,GERD,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Famotidine for gerd.,10,"June 12, 2019",150,107,17
+4665,Glipizide,Diabetes Type 2,Works well with minimal side effects. I was prescribed Glipizide for diabetes type 2.,7,"May 14, 2020",194,85,14
+151,Armour Thyroid,Hypothyroidism,Results are hit or miss. Some days are better than others. I was prescribed Armour Thyroid for hypothyroidism.,6,"May 23, 2021",156,110,18
+1421,Venlafaxine,Depression,My doctor recommended this and it really helped. I was prescribed Venlafaxine for depression.,7,"January 01, 2020",4,93,14
+2012,Sertraline,Depression,Been on this for a while. Seems to help somewhat. I was prescribed Sertraline for depression.,4,"May 15, 2022",62,93,16
+2687,Buspirone,Anxiety,Works well with minimal side effects. I was prescribed Buspirone for anxiety.,7,"December 24, 2018",114,77,12
+1787,Buspirone,Anxiety,Been on this for a while. Seems to help somewhat. I was prescribed Buspirone for anxiety.,5,"March 07, 2016",42,89,16
+89,Omeprazole,GERD,No major complaints but no major improvements either. I was prescribed Omeprazole for gerd.,4,"March 02, 2017",102,91,14
+458,Prednisone,Arthritis,Not worth the side effects. Very disappointed. I was prescribed Prednisone for arthritis.,3,"March 24, 2019",80,89,13
+1306,Januvia,Diabetes Type 2,Gained significant weight while on this medication. I was prescribed Januvia for diabetes type 2.,3,"February 17, 2023",173,97,15
+2926,Levofloxacin,Pneumonia,Average medication. Does what it is supposed to do. I was prescribed Levofloxacin for pneumonia.,6,"January 27, 2019",161,96,15
+3271,Ortho Tri-Cyclen,Birth Control,Results are hit or miss. Some days are better than others. I was prescribed Ortho Tri-Cyclen for birth control.,5,"July 20, 2018",119,111,19
+3228,Montelukast,Asthma,Highly recommend to anyone dealing with this condition. I was prescribed Montelukast for asthma.,9,"March 19, 2018",72,96,14
+1989,Phentermine,Obesity,Some improvement but still dealing with symptoms. I was prescribed Phentermine for obesity.,4,"August 31, 2018",105,91,13
+3755,Pantoprazole,GERD,No major complaints but no major improvements either. I was prescribed Pantoprazole for gerd.,4,"July 28, 2020",135,93,14
+3647,Ibuprofen,Pain,Average medication. Does what it is supposed to do. I was prescribed Ibuprofen for pain.,6,"September 24, 2018",176,88,15
+832,Tretinoin,Acne,Too many side effects. Had to switch medications. I was prescribed Tretinoin for acne.,3,"October 30, 2017",155,86,14
+240,Topiramate,Migraine,Great results overall. I was prescribed Topiramate for migraine.,8,"December 18, 2021",64,64,9
+4682,Mirena,Birth Control,Some improvement but still dealing with symptoms. I was prescribed Mirena for birth control.,4,"July 10, 2022",189,92,14
+3023,Meloxicam,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Meloxicam for arthritis.,4,"May 29, 2017",47,100,17
+3149,Meloxicam,Arthritis,Results are hit or miss. Some days are better than others. I was prescribed Meloxicam for arthritis.,5,"June 28, 2016",98,100,17
+1947,Vyvanse,ADHD,Some improvement but still dealing with symptoms. I was prescribed Vyvanse for adhd.,6,"September 04, 2018",63,84,13
+2776,Topiramate,Migraine,Some improvement but still dealing with symptoms. I was prescribed Topiramate for migraine.,5,"April 03, 2018",133,91,13
+193,Synthroid,Hypothyroidism,Some improvement but still dealing with symptoms. I was prescribed Synthroid for hypothyroidism.,6,"July 25, 2021",111,96,13
+4850,Metformin,Diabetes Type 2,Works well with minimal side effects. I was prescribed Metformin for diabetes type 2.,7,"January 28, 2022",192,85,14
+4940,Mirena,Birth Control,Did not work for me at all. Waste of money. I was prescribed Mirena for birth control.,2,"November 06, 2018",178,86,17
+945,Topiramate,Migraine,Great results overall. I was prescribed Topiramate for migraine.,10,"April 19, 2018",114,64,9
+1269,Tretinoin,Acne,It works okay but nothing spectacular. I was prescribed Tretinoin for acne.,4,"April 12, 2016",180,75,12
+4232,Phentermine,Obesity,Been taking for months with consistent positive results. I was prescribed Phentermine for obesity.,9,"September 23, 2018",199,98,14
+2308,Albuterol,Asthma,Been on this for a while. Seems to help somewhat. I was prescribed Albuterol for asthma.,5,"January 07, 2023",107,88,16
+4425,Quetiapine,Bipolar Disorder,Terrible side effects made me stop taking it. I was prescribed Quetiapine for bipolar disorder.,3,"February 13, 2015",40,95,15
+4712,Januvia,Diabetes Type 2,This medication has been a lifesaver. I was prescribed Januvia for diabetes type 2.,7,"December 05, 2019",184,83,14
+2314,Glipizide,Diabetes Type 2,Works well with minimal side effects. I was prescribed Glipizide for diabetes type 2.,7,"October 20, 2022",180,85,14
+3215,Fluoxetine,Depression,Side effects were mild and temporary. The benefits far outweigh them. I was prescribed Fluoxetine for depression.,7,"April 26, 2017",146,113,17
+2733,Liothyronine,Hypothyroidism,Been taking for months with consistent positive results. I was prescribed Liothyronine for hypothyroidism.,7,"December 03, 2017",13,106,14
+1927,Amoxicillin,UTI,Gained significant weight while on this medication. I was prescribed Amoxicillin for uti.,1,"October 07, 2022",84,89,13

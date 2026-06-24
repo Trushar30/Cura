@@ -1,0 +1,393 @@
+:root {
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --transition-fast: all 0.12s ease-out;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+}
+
+:root, [data-theme='dark'] {
+  --bg-primary: #0b0c0e;
+  --bg-secondary: #111315;
+  --bg-tertiary: #16181b;
+  --bg-input: #08090a;
+  --border-light: rgba(255, 255, 255, 0.04);
+  --border-focus: rgba(255, 255, 255, 0.15);
+  
+  --accent-amber: #d97706;
+  --accent-amber-light: rgba(217, 119, 6, 0.08);
+  --accent-green: #10b981;
+  --accent-green-light: rgba(16, 185, 129, 0.06);
+  --accent-red: #ef4444;
+  --accent-red-light: rgba(239, 68, 68, 0.06);
+  
+  --text-primary: #e4e4e7;
+  --text-secondary: #a1a1aa;
+  --text-muted: #52525b;
+  --text-heading: #ffffff;
+  
+  --bg-card-hover: #131518;
+  --bg-pill: rgba(255, 255, 255, 0.02);
+  --bg-pill-hover: rgba(255, 255, 255, 0.05);
+  --bg-pill-selected: rgba(255, 255, 255, 0.06);
+  
+  --scrollbar-thumb: rgba(255, 255, 255, 0.05);
+  --scrollbar-thumb-hover: rgba(255, 255, 255, 0.15);
+  --graph-edge: rgba(255, 255, 255, 0.04);
+}
+
+[data-theme='light'] {
+  --bg-primary: #f5f5f7;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #ebebed;
+  --bg-input: #e5e5eb;
+  --border-light: rgba(0, 0, 0, 0.08);
+  --border-focus: rgba(0, 0, 0, 0.2);
+  
+  --accent-amber: #c25e00;
+  --accent-amber-light: rgba(194, 94, 0, 0.06);
+  --accent-green: #047857;
+  --accent-green-light: rgba(4, 120, 87, 0.06);
+  --accent-red: #b91c1c;
+  --accent-red-light: rgba(185, 28, 28, 0.06);
+  
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --text-muted: #9ca3af;
+  --text-heading: #111827;
+  
+  --bg-card-hover: #f1f1f4;
+  --bg-pill: rgba(0, 0, 0, 0.02);
+  --bg-pill-hover: rgba(0, 0, 0, 0.05);
+  --bg-pill-selected: rgba(0, 0, 0, 0.06);
+  
+  --scrollbar-thumb: rgba(0, 0, 0, 0.1);
+  --scrollbar-thumb-hover: rgba(0, 0, 0, 0.2);
+  --graph-edge: rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Minimalist Card Panels */
+.glass-panel {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 2rem;
+  transition: var(--transition-fast);
+}
+
+.glass-panel:hover {
+  border-color: var(--border-focus);
+  background: var(--bg-card-hover);
+}
+
+/* Typography & Layouts */
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text-heading);
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+p {
+  color: var(--text-secondary);
+  line-height: 1.55;
+  font-size: 0.9rem;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid-cols-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.grid-cols-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.grid-cols-4 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+}
+
+/* Elegant Minimalist Buttons */
+.btn-primary {
+  background: var(--text-heading);
+  border: 1px solid var(--text-heading);
+  border-radius: var(--radius-sm);
+  color: var(--bg-primary);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.85rem;
+  padding: 0.55rem 1.1rem;
+  transition: var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.btn-primary:hover {
+  background: var(--text-secondary);
+  border-color: var(--text-secondary);
+  color: var(--bg-secondary);
+}
+
+.btn-primary:disabled {
+  background: var(--bg-tertiary);
+  border-color: var(--bg-tertiary);
+  color: var(--text-muted);
+  cursor: not-allowed;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.85rem;
+  padding: 0.55rem 1.1rem;
+  transition: var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.btn-secondary:hover {
+  background: var(--bg-pill-hover);
+  border-color: var(--text-muted);
+}
+
+/* Minimalist Form Inputs */
+input, select, textarea {
+  width: 100%;
+  background: var(--bg-input);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  padding: 0.55rem 0.75rem;
+  transition: var(--transition-fast);
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--border-focus);
+  outline: none;
+}
+
+/* Header & Navigation Bar */
+.navbar {
+  border-bottom: 1px solid var(--border-light);
+  background: var(--bg-primary);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.8rem 1.5rem;
+  gap: 1.5rem;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.05rem;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--text-heading);
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap; /* allow wrapping on extra-small mobile screens, but prevent it on desktop */
+}
+
+.nav-link {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  padding: 0.4rem 0.65rem;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.nav-link:hover {
+  color: var(--text-heading);
+  background: var(--bg-pill-hover);
+}
+
+.nav-link.active {
+  color: var(--text-heading);
+  background: var(--bg-pill-selected);
+}
+
+.user-section {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  white-space: nowrap;
+}
+
+.user-details {
+  display: flex;
+  align-items: center;
+  gap: 0.40rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+/* Professional Badge System */
+.role-badge {
+  font-size: 0.65rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.badge-user {
+  background: var(--bg-pill);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-light);
+}
+
+.badge-admin {
+  background: var(--accent-amber-light);
+  color: var(--accent-amber);
+  border: 1px solid rgba(217, 119, 6, 0.2);
+}
+
+.badge-analyst {
+  background: var(--accent-green-light);
+  color: var(--accent-green);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+/* Tables styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.7rem 0.85rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+td {
+  padding: 0.8rem 0.85rem;
+  font-size: 0.85rem;
+  border-bottom: 1px solid var(--border-light);
+  color: var(--text-primary);
+}
+
+tr:hover td {
+  background: rgba(255, 255, 255, 0.005);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover);
+}
+
+.spin {
+  animation: spinAction 1s linear infinite;
+}
+
+@keyframes spinAction {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.glow-pill {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-green);
+  display: inline-block;
+}

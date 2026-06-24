@@ -1,0 +1,10 @@
+Model,RMSE,MAE,Avg_Similarity,Coverage_%,Status,Accuracy_%
+Content-Based (TF-IDF),,,0.0863,100.0,✅ Trained,
+CF: SVD,1.194,0.9801,,100.0,✅ Trained,
+CF: SVDpp,1.1808,0.9733,,100.0,✅ Trained,
+CF: KNN (User),1.1752,0.972,,100.0,✅ Trained,
+CF: KNN (Item),1.175,0.9719,,100.0,✅ Trained,
+CF: NMF,1.1748,0.9716,,100.0,✅ Trained,
+Hybrid (best α=0.3),1.1816,,,100.0,✅ Trained,
+Deep Learning (NCF),0.2317,0.1907,,100.0,✅ Trained,
+Sentiment Analysis,,,,100.0,✅ Computed,60.7
