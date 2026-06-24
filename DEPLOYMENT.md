@@ -58,6 +58,7 @@ Render is a cloud platform that hosts Python apps for free.
      ```
    * **Instance Type**: Select **Free**.
 5. Click **Advanced** and add the following **Environment Variables**:
+   * `PYTHON_VERSION` = `3.11.8` (Enforces Python 3.11 for TensorFlow compatibility)
    * `PYTHONPATH` = `.`
    * `JWT_SECRET_KEY` = `your_super_secret_jwt_key_here` (change this to a secure random string).
 6. Click **Create Web Service**. 
